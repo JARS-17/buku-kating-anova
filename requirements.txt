@@ -1,5 +1,5 @@
-streamlit
-streamlit-option-menu
+streamlit == 1.36.0
+streamlit-option-menu == 0.3.13
 io
-Pillow
+Pillow == 10.0.1
 requests
