@@ -1,0 +1,5 @@
+streamlit
+streamlit-option-menu
+io
+Pillow
+requests
