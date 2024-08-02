@@ -1,6 +1,6 @@
 import streamlit as st
+# session state agar ketika pindah page tidak berubah data yang tersedia
 
-# Set the logged_in state to True automatically
 st.session_state.pindah = True
 
 Homepage = st.Page("Halaman Utama/halaman_utama.py",
@@ -13,30 +13,24 @@ Mahasiswa1 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa2 = st.Page(
-    "Buku Kating/066_Cintya Bella.py",
-    title="066 - Cintya Bella",
-    icon=":material/person:",
-)
-Mahasiswa3 = st.Page(
     "Buku Kating/094_Rian Bintang Wijaya.py",
     title="094 - Rian Bintang Wijaya",
     icon=":material/person:",
 )
 
-search = st.Page("tools/search.py", title="Search", icon=":material/search:")
-history = st.Page("tools/history.py", title="History", icon=":material/history:")
+#Perlu diperhatikan perubahannya
+KREASI = st.Page("tools/KREASI.py", title="KREASI", icon=":material/search:")
+KREASII = st.Page("tools/KREASII.py", title="KREASII", icon=":material/search:")
 
-# Automatically navigate to the dashboard if logged in
+#Perlu diperhatikan perubahannya
 if st.session_state.pindah:
     pg = st.navigation(
         {
             "Halaman Utama": [Homepage],
-            "Buku Kating": [Mahasiswa1, Mahasiswa2, Mahasiswa3],
-            "Try Me !!": [search, history],
+            "Buku Kating": [Mahasiswa1, Mahasiswa2, ],
+            "Try Me !!": [KREASI, KREASII],
         }
     )
 else:
-    st.write("You are not logged in.")  # Optional: message if not logged in
-
-
+    st.write("Maaf Anda kurang beruntung :()")  # Optional: message if not logged in
 pg.run()
