@@ -169,11 +169,18 @@ elif menu == "About Us":
                 "motto_hidup": "jangan ya dek ya",
             },
             {
+                "nama": "E",
+                "sebagai": "Anggota",
+                "nim": "122450004",
+                "fun_fact": "nyemilin es bata",
+                "motto_hidup": "mantapp",
+            },
+            {
                 "nama": "F",
-                "sebagai":"Anggota",
+                "sebagai": "Anggota",
                 "nim": "122450002",
                 "fun_fact": "nyemilin es bata",
-                "motto_hidup": "yang bener aje, rudi gong"
+                "motto_hidup": "yang bener aje, rudi gong",
             },
             {
                 "nama": "G",
