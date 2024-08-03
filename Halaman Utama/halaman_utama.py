@@ -189,6 +189,13 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "slowly santuy"
             },
+            {
+                "nama": "H",
+                "sebagai":"Anggota",
+                "nim": "122450007",
+                "fun_fact": "masak telor setengah sapi",
+                "motto_hidup": "drakor anytime"
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
 
