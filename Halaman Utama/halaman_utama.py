@@ -161,62 +161,6 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "Ya apa ya",
             },
-            {
-                "nama": "D",
-                "sebagai": "Anggota",
-                "nim": "122450001",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jangan ya dek ya",
-            },
-            {
-                "nama": "E",
-                "sebagai": "Anggota",
-                "nim": "122450004",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "mantapp",
-            },
-            {
-                "nama": "F",
-                "sebagai": "Anggota",
-                "nim": "122450002",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "yang bener aje, rudi gong",
-            },
-            {
-                "nama": "G",
-                "sebagai": "Anggota",
-                "nim": "122450006",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "slowly santuy",
-            },
-            {
-                "nama": "i",
-                "sebagai": "Anggota",
-                "nim": "122450008",
-                "fun_fact": "mukbang",
-                "motto_hidup": "jkt harga mati",
-            },
-            {
-                "nama": "H",
-                "sebagai":"Anggota",
-                "nim": "122450007",
-                "fun_fact": "masak telor setengah sapi",
-                "motto_hidup": "drakor anytime"
-            },
-            {
-                "nama": "JJ",
-                "sebagai":"Anggota",
-                "nim": "122450007",
-                "fun_fact": "masak telor setengah sapi",
-                "motto_hidup": "drakoran"
-            },
-            {
-                "nama": "kk",
-                "sebagai":"Anggota",
-                "nim": "122450007",
-                "fun_fact": "masak telor setengah sapi",
-                "motto_hidup": "drakor anytim"
-            },
         ]
         display_images_with_data(gambar_urls, data_list)
 
