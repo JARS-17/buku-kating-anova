@@ -159,7 +159,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "122450000",
                 "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "motto_hidup": "jalanin aja",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
