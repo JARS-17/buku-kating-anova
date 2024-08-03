@@ -100,7 +100,6 @@ if menu == "Home":
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
                     laborum.</div>""", unsafe_allow_html=True)
         st.write(""" """)
-
     home_page()
 
 elif menu == "About Us":
