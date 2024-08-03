@@ -204,18 +204,18 @@ elif menu == "About Us":
                 "motto_hidup": "drakor anytime"
             },
             {
-                "nama": "H",
-                "sebagai":"Anggota",
-                "nim": "122450007",
-                "fun_fact": "masak telor setengah sapi",
-                "motto_hidup": "drakor anytime"
-            },
-            {
                 "nama": "JJ",
                 "sebagai":"Anggota",
                 "nim": "122450007",
                 "fun_fact": "masak telor setengah sapi",
                 "motto_hidup": "drakoran"
+            },
+            {
+                "nama": "kk",
+                "sebagai":"Anggota",
+                "nim": "122450007",
+                "fun_fact": "masak telor setengah sapi",
+                "motto_hidup": "drakor anytim"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
