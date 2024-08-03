@@ -184,10 +184,17 @@ elif menu == "About Us":
             },
             {
                 "nama": "G",
-                "sebagai":"Anggota",
+                "sebagai": "Anggota",
                 "nim": "122450006",
                 "fun_fact": "nyemilin es bata",
-                "motto_hidup": "slowly santuy"
+                "motto_hidup": "slowly santuy",
+            },
+            {
+                "nama": "i",
+                "sebagai": "Anggota",
+                "nim": "122450008",
+                "fun_fact": "mukbang",
+                "motto_hidup": "jkt harga mati",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
