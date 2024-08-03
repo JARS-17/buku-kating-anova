@@ -7,11 +7,30 @@ from io import BytesIO
 st.markdown("""<style>.centered-title {text-align: center;}</style>""",unsafe_allow_html=True)
 st.markdown("<h1 class='centered-title'>BUKU KATING</h1>", unsafe_allow_html=True)
 
+# bagian sini jangan diubah
 def streamlit_menu():
     selected = option_menu(
         menu_title=None,
-        options=["Baleg","Kesekjenan", "Senator", "Departemen PSDA", "Departemen MIKFES", "Departemen Eksternal", "Departemen Internal", "Departemen SSD"],
-        icons=['people-fill', 'people-fill', 'people-fill', 'people-fill', 'people-fill', 'people-fill', 'people-fill', 'people-fill'],
+        options=[
+            "Badan Legislatif",
+            "Kesekjenan",
+            "Senator",
+            "Departemen PSDA",
+            "Departemen MIKFES",
+            "Departemen Eksternal",
+            "Departemen Internal",
+            "Departemen SSD",
+        ],
+        icons=[
+            "people-fill",
+            "people-fill",
+            "people-fill",
+            "people-fill",
+            "people-fill",
+            "people-fill",
+            "people-fill",
+            "people-fill",
+        ],
         default_index=0,
         orientation="horizontal",
         styles={
