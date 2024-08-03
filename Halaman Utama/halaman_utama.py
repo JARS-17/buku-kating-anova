@@ -133,6 +133,13 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "Ya apa ya"
             },
+            {
+                "nama": "F",
+                "sebagai":"Anggota",
+                "nim": "122450002",
+                "fun_fact": "nyemilin es bata",
+                "motto_hidup": "yang bener aje, rudi gong"
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
 
