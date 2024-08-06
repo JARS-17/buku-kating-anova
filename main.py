@@ -40,7 +40,7 @@ Mahasiswa6 = st.Page(
 )
 Mahasiswa7 = st.Page(
     "Buku Kating/7.py",
-    title="7",
+    title="7-k",
     icon=":material/person:",
 )
 Mahasiswa8 = st.Page(
