@@ -161,6 +161,13 @@ elif menu == "About Us":
                 "fun_fact": "nyemilin es bata",
                 "motto_hidup": "jalanin dulu aja",
             },
+            {
+                "nama": "D",
+                "sebagai": "Anggota",
+                "nim": "122450000",
+                "fun_fact": "nyemilin es bata",
+                "motto_hidup": "jalanin dulu aja",
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
 
