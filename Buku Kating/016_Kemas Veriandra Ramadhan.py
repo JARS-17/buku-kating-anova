@@ -125,7 +125,7 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak C",
+                "nama": "Kakak CC",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
