@@ -12,8 +12,8 @@ def streamlit_menu():
     selected = option_menu(
         menu_title=None,
         options=[
-            "Baleg",
             "Kesekjenan",
+            "Baleg",
             "Senator",
             "Departemen PSDA",
             "Departemen MIKFES",
