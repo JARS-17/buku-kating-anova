@@ -1,5 +1,3 @@
 import streamlit as st
 
-st.write("mantap abangkuh")
-
-
+st.write("mantap abangkuhh")
