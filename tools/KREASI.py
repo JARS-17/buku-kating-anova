@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("mantap")
+st.write("mantap bjir")
