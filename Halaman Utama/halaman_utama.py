@@ -209,7 +209,7 @@ elif menu == "About Us":
             {
                 "nama": "9",
                 "sebagai": "Anggota",
-                "nim": "123450028",
+                "nim": "1234500118",
                 "fun_fact": "isi ini",
                 "motto_hidup": "isi ini",
             },
