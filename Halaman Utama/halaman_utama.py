@@ -157,6 +157,13 @@ elif menu == "About Us":
                 "motto_hidup": "Ya apa ya",
             },
             {
+                "nama": "Tanty Widiyastuti",
+                "sebagai": "Anggota",
+                "nim": "123450094",
+                "fun_fact": "kalau tidur harus pakai sarung bapak",
+                "motto_hidup": "hiduplah seperti larry",
+            },
+            {
                 "nama": "C",
                 "sebagai": "Anggota",
                 "nim": "122450000",
