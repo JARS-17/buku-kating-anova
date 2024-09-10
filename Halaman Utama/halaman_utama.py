@@ -199,12 +199,12 @@ elif menu == "About Us":
                 "fun_fact": "isi ini",
                 "motto_hidup": "isi ini",
             },
-            {
-                "nama": "8",
+        
+                "nama": "AHMAD FARHAN GHANI",
                 "sebagai": "Anggota",
-                "nim": "123450028",
-                "fun_fact": "isi ini",
-                "motto_hidup": "isi ini",
+                "nim": "123450121",
+                "fun_fact": "Suka Berolahraga",
+                "motto_hidup": "Believe In Yourself",
             },
             {
                 "nama": "9",
