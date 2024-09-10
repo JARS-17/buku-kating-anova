@@ -167,8 +167,8 @@ elif menu == "About Us":
                 "nama": "Nurul Izzah Istiqomah",
                 "sebagai": "Anggota",
                 "nim": "123450054",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "",
+                "fun_fact": "Bisa makan menu yang sama dalam 1 bulan",
+                "motto_hidup": "Don't say you can't before you try",
             },
             {
                 "nama": "Donna Maya Puspita",
