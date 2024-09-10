@@ -165,18 +165,18 @@ elif menu == "About Us":
                 "motto_hidup": "Ya apa ya",
             },
             {
+                "nama": "Citra Agustin",
+                "sebagai": "Bendahara",
+                "nim": "123450108",
+                "fun_fact": "cannot life without pinterest",
+                "motto_hidup": "just living",
+            },
+            {
                 "nama": "Tanty Widiyastuti",
                 "sebagai": "Anggota",
                 "nim": "123450094",
                 "fun_fact": "kalau tidur harus pakai sarung bapak",
                 "motto_hidup": "hiduplah seperti larry",
-            },
-            {
-                "nama": "C",
-                "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
             },
             {
                 "nama": "Nurul Izzah Istiqomah",
