@@ -164,11 +164,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "D",
+                "nama": "Nurul Izzah Istiqomah",
                 "sebagai": "Anggota",
-                "nim": "122450000",
+                "nim": "123450054",
                 "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "motto_hidup": "",
             },
             {
                 "nama": "E",
