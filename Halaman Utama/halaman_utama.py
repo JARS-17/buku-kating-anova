@@ -224,11 +224,11 @@ elif menu == "About Us":
                 "motto_hidup": "hidup itu gabisa ditebak ya",
             },
             {
-                "nama": "11",
+                "nama": "Nadia Faraj Alyafaatin Simbolon",
                 "sebagai": "Anggota",
-                "nim": "123450028",
-                "fun_fact": "isi ini",
-                "motto_hidup": "isi ini",
+                "nim": "123450092",
+                "fun_fact": "suka ghibli",
+                "motto_hidup": "Just because it's hard, doesn't mean it's impossible",
             },
             {
                 "nama": "13",
