@@ -192,13 +192,16 @@ elif menu == "About Us":
                 "fun_fact": "Tidak bisa menahan ketawa",
                 "motto_hidup": "It costs zero to be kind",
             },
+            
             {
-                "nama": "7",
+                "nama": "Juesi Apridelia Saragih",
                 "sebagai": "Anggota",
-                "nim": "123450028",
-                "fun_fact": "isi ini",
-                "motto_hidup": "isi ini",
+                "nim": "123450085",
+                "fun_fact": "Gak suka kucing",
+                "motto_hidup": "When it doubt, just add a little glitter and strut!",
             },
+
+            {
         
                 "nama": "AHMAD FARHAN GHANI",
                 "sebagai": "Anggota",
