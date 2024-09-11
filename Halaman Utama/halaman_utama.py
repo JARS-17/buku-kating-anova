@@ -231,11 +231,11 @@ elif menu == "About Us":
                 "motto_hidup": "Just because it's hard, doesn't mean it's impossible",
             },
             {
-                "nama": "13",
+                "nama": "Monica Patricia Tanjung",
                 "sebagai": "Anggota",
-                "nim": "123450028",
-                "fun_fact": "isi ini",
-                "motto_hidup": "isi ini",
+                "nim": "123450073",
+                "fun_fact": "sangat tidak suka cicak",
+                "motto_hidup": "True success is becoming true self",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
