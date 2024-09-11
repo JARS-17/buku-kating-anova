@@ -210,11 +210,11 @@ elif menu == "About Us":
                 "motto_hidup": "Believe In Yourself",
             },
             {
-                "nama": "9",
+                "nama": "Dharu Cahyoaji Sasongko",
                 "sebagai": "Anggota",
-                "nim": "1234500118",
-                "fun_fact": "isi ini",
-                "motto_hidup": "isi ini",
+                "nim": "123450023",
+                "fun_fact": "anak 06",
+                "motto_hidup": "menjalani takdir tuhan",
             },
             {
                 "nama": "Cindy Laura Manik",
