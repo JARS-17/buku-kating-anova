@@ -135,19 +135,19 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1JXqN42MkMcxDevd7qpfGZAlgX73R5dSi",
+            "https://drive.google.com/uc?export=view&id=1JCUYSnIYQwjzbN4CuF6CE3zuga0ON06k",
+            "https://drive.google.com/uc?export=view&id=1JMVb_ynrnsH-v3pDjlQDe0a4iQFhqkPz",
+            "https://drive.google.com/uc?export=view&id=1JnO8S5NYgv_NYqNywFPNd4I6QGoGoDLl",
+            "https://drive.google.com/uc?export=view&id=1LeXWG5AKCWFA-9lIj-kZgRYM4-OEJihI",
+            "https://drive.google.com/uc?export=view&id=1JNgCGQ-ie8mdrfiUfDDNVVOMkZkYeX2t",
+            "https://drive.google.com/uc?export=view&id=1JaHctj_DJvmiBAZJVJFgnrx_Bzqxpny-",
+            "https://drive.google.com/uc?export=view&id=1JdEwqhP0SSZ2HiKRqi32FOu-gY7Y9o0G",
+            "https://drive.google.com/uc?export=view&id=1JNf2ZYh2iU3vmBHLto-nQVdSlJK8N-kP",
+            "https://drive.google.com/uc?export=view&id=1Jz4UJoX-8BWJJmDwzdiIcjoWkFi_1vqm",
+            "https://drive.google.com/uc?export=view&id=1LeWQEBSKX_2EbmxE43X1TYFst6i22IQt",
+            "https://drive.google.com/uc?export=view&id=1JnpLFaKQZcxPwV21tZ2fCw0JetBrRqBx",
+            "https://drive.google.com/uc?export=view&id=1J_F7BKkHq5PPOKBBOpUHePemXPlziIyy",
         ]
         data_list = [
             {
@@ -192,7 +192,6 @@ elif menu == "About Us":
                 "fun_fact": "Tidak bisa menahan ketawa",
                 "motto_hidup": "It costs zero to be kind",
             },
-            
             {
                 "nama": "Juesi Apridelia Saragih",
                 "sebagai": "Anggota",
@@ -200,7 +199,6 @@ elif menu == "About Us":
                 "fun_fact": "Gak suka kucing",
                 "motto_hidup": "When it doubt, just add a little glitter and strut!",
             },
-
             {
         
                 "nama": "AHMAD FARHAN GHANI",
@@ -232,6 +230,13 @@ elif menu == "About Us":
             },
             {
                 "nama": "Monica Patricia Tanjung",
+                "sebagai": "Anggota",
+                "nim": "123450073",
+                "fun_fact": "sangat tidak suka cicak",
+                "motto_hidup": "True success is becoming true self",
+            },
+            {
+                "nama": "Rakha Rabani",
                 "sebagai": "Anggota",
                 "nim": "123450073",
                 "fun_fact": "sangat tidak suka cicak",
