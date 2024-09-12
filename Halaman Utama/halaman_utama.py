@@ -158,11 +158,11 @@ elif menu == "About Us":
                 "motto_hidup": "hidup di momen saat ini dan berinvestasi buat masa depan",
             },
             {
-                "nama": "B",
+                "nama": "Anggi Puspita Ningrum",
                 "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450012",
+                "fun_fact": "suka mint choco",
+                "motto_hidup": "jangan pernah takut sama bayangan",
             },
             {
                 "nama": "Citra Agustin",
