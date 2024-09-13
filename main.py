@@ -24,8 +24,8 @@ Mahasiswa3 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
-    "Buku Kating/117_Anwar Muslim.py",
-    title="117 - Anwar Muslim",
+    "Buku Kating/098_Rakha Rabbani.py",
+    title="098 - Rakha Rabbani",
     icon=":material/person:",
 )
 Mahasiswa5 = st.Page(
