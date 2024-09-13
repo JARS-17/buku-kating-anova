@@ -119,7 +119,7 @@ if menu == "Home":
                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
                     uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+                    .</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
