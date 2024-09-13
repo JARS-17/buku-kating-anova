@@ -238,9 +238,9 @@ elif menu == "About Us":
             {
                 "nama": "Rakha Rabani",
                 "sebagai": "Anggota",
-                "nim": "123450073",
-                "fun_fact": "sangat tidak suka cicak",
-                "motto_hidup": "True success is becoming true self",
+                "nim": "123450098",
+                "fun_fact": "3 periode",
+                "motto_hidup": "Dikatakan benar juga tidak salah",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
