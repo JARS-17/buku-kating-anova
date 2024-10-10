@@ -103,37 +103,79 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+
+                "Ketua Himpunan"
+                "nama": "Kharisma Gumilang",
+                "nim": "121450042",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Jl.Pulau Damar",
+                "hobbi": "Dengerin Musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Berkharisma dan Menginspirasi",  
+                "pesan":"Semangat buat TA nya, sehat selalu!"# 1
             },
-            {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            {   "Sekretaris Jenderal"
+                "nama": "Pandra Insani Putra Anwar",
+                "nim": "121450147",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Sukarame",
+                "hobbi": "Main Gitar",
+                "sosmed": "@pandrainsani27",
+                "kesan": "Keren banget dan Insight full",  
+                "pesan":"Semangat bang !!!, tetap ganteng -juesi"# 1
             },
+            {   
+                "Sekretaris Umum"
+                "nama": "Meliza Wulandari",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Sumatera Selatan",
+                "alamat": "Jl.Pagar Alam",
+                "hobbi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "keren banget kak",  
+                "pesan":"semangat ngaspraknya kak !!!"# 1
+            },
+        
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
+                "Sekretaris 1"
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Sumatera Barat",
+                "alamat": "Gg. Nangka 4",
+                "hobbi": "Dengerin Bg Pandra Main Gitar",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Cantik, pendengar yang baik ",  
+                "pesan":"Terimakasih udah support kami"# 1
+            },
+        
+            {   
+                "Bendahara Umum"
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobbi": "Nyanyi",
+                "sosmed": "@htrpdla",
+                "kesan": "cantik",  
+                "pesan":"Semangat ngurus cuannya"# 1
+            },
+        
+            {
+                "Bendahara 1"
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Lampung",
+                "alamat": "Metro",
                 "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "sosmed": "@nadilaandr26",
+                "kesan": "vibes bendaharanya kerasa bgt",  
+                "pesan":"Semangat ngasprak strukdatnya!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -170,7 +212,7 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak D",
+                "nama": "Kakak DD",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
