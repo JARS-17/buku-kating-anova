@@ -187,38 +187,126 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Tri murniya Ningsih",
+                "nim": "121450038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Raden saleh",
+                "hobbi": "Nanya ke gpt",
+                "sosmed": "@trimurniaa_",
+                "kesan": "Kakak cantik asprak alpro RA",  
+                "pesan":"semangat ngaspraknya kakak !!!"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Annisa cahyani surya",
+                "nim": "121450114",
+                "umur": "21",
+                "asal":"Tangsel",
+                "alamat": "Way huwi",
+                "hobbi": "Membaca, nonton",
+                "sosmed": "@anisacahyanisurya",
+                "kesan": "Kakak nya cantik banget",  
+                "pesan":"semoga TA nya lancar kakkk !!!"# 1
             },
             {
-                "nama": "Kakak DD",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Wulan sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden saleh",
+                "hobbi": "Belajar, nonton film, tidur",
+                "sosmed": "@wlsbn0",
+                "kesan": "Kakak pasti orang baik kannn",  
+                "pesan":"semoga dilancarkan dan dimudahkan segala urusannya ya kak!!!"# 1
             },
+            {
+                "nama": "Anisa dini amalia",
+                "nim": "121450081",
+                "umur": "20",
+                "asal":"Tanggerang",
+                "alamat": "Jati agung",
+                "hobbi": "Nonton drachin",
+                "sosmed": "@anisadini10",
+                "kesan": "Waktu ngomongin hobinya, kakaknya keliatan seneng bgt",  
+                "pesan":"semangat maraton drachinnya kak !!!"# 1
+            },
+            {
+                "nama": "Feriyadi yulius",
+                "nim": "122450087",
+                "umur": "20",
+                "asal":"Sumatera selatan",
+                "alamat": "Way kandis",
+                "hobbi": "Baca buku",
+                "sosmed": "@fer_yulius",
+                "kesan": "Abangnya keren",  
+                "pesan":"semangat menjalani semester 5 bang!!!"# 1
+            },
+            {
+                "nama": "Renisha Putri Giani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Jualan pancing",
+                "sosmed": "@fleurnsh",
+                "kesan": "Kakaknya lucu",  
+                "pesan":" Semangat kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Claudhia Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Tidur",
+                "sosmed": "@dylebee",
+                "kesan": "Seru bgt ngobrol sama kakak",  
+                "pesan":" Semangat berproses kak!!!"# 1
+            },
+            {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450110",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Korpri",
+                "hobbi": "Tidur yang lama, main kucing",
+                "sosmed": "@myrrinn",
+                "kesan": "ucul kakaknya,tinngi lagi",  
+                "pesan":"semangat berhibernasinya kak !!!"# 1
+            },
+            {
+                "nama": "Muhammad fahrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"Surakarta",
+                "alamat": "Sukarame",
+                "hobbi": "Melukis, olahraga",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "Kakaknya keren banget",  
+                "pesan":"Terus semangat bangg"# 1
+            },
+            {
+                "nama": "Jeremia susanto",
+                "nim": "122450022",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Bengong",
+                "sosmed": "@jeremia_s_",
+                "kesan": "Bang jere ramah bgt orangnya",  
+                "pesan":"semangat kuliahnya bang !!!"# 1
+            },
+            {
+                "nama": "Berliana enda putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal":"Sumatera barat",
+                "alamat": "Way huwi",
+                "hobbi": "Duduk di tepi pantai sambil galauin bintang yang tinggal satu",
+                "sosmed": "@berlyyanda",
+                "kesan": " kakaknya lucuu dan seruu",  
+                "pesan":"Tetap semangat, jangan menyerah!!!"# 1
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
