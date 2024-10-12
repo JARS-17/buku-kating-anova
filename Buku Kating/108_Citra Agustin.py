@@ -308,7 +308,7 @@ elif menu == "Baleg":
                 "hobbi": "Duduk di tepi pantai sambil galauin bintang ynag tinggal satu",
                 "sosmed": "@berlyyanda",
                 "kesan": "lucu dan seru",  
-                "pesan":"sukses terus kak"# 1
+                "pesan":"sukses terus ka"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
