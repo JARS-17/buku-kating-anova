@@ -106,7 +106,6 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-
                 "nama": "Kharisma Gumilang",
                 "nim": "121450042",
                 "umur": "21",

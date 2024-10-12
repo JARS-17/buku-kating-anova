@@ -118,7 +118,7 @@ if menu == "Kesekjenan":
                 "kesan": "Sangat Menginspirasi",  
                 "pesan":"Semangat buat TA nya bang!"# 1
             },
-            {   "Sekretaris Jenderal"
+            {   
                 "nama": "Pandra Insani Putra Anwar",
                 "nim": "121450147",
                 "umur": "21",
@@ -143,7 +143,6 @@ if menu == "Kesekjenan":
             },
         
             {
-                "Sekretaris 1"
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -156,7 +155,6 @@ if menu == "Kesekjenan":
             },
         
             {   
-                "Bendahara Umum"
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
@@ -169,7 +167,6 @@ if menu == "Kesekjenan":
             },
         
             {
-                "Bendahara 1"
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
