@@ -147,7 +147,7 @@ if menu == "Kesekjenan":
                 "alamat": "Gg. Nangka 4",
                 "hobbi": "Dengerin Bg Pandra Main Gitar",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Cantik, pendengar yang baik ",  
+                "kesan": "Baik, pendengar yang baik ",  
                 "pesan":"Terimakasih udah support kami"# 1
             },
         
