@@ -106,8 +106,6 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-
-                "Ketua Himpunan"
                 "nama": "Kharisma Gumilang",
                 "nim": "121450042",
                 "umur": "21",
@@ -130,7 +128,6 @@ if menu == "Kesekjenan":
                 "pesan":"Semangat bang dan tetap kece"# 1
             },
             {   
-                "Sekretaris Umum"
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
