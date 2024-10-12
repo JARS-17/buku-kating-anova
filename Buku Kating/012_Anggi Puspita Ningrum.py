@@ -271,7 +271,7 @@ elif menu == "Baleg":
                 "kesan": "asik dan baik",  
                 "pesan":"semangat terus menjalani hari-harinya dan persiapan TA nya !!"# 1
             },
-             {
+            {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450110",
                 "umur": "20",
