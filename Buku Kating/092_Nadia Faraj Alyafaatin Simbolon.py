@@ -97,16 +97,27 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
+
+            "https://drive.google.com/uc?export=view&id=1j-xe3ChUkC7re7chFUXvJ4AKOwht1GAD",
+            "https://drive.google.com/uc?export=view&id=1iyN5ViLQo6CXuGCnGsCBGPLgGH7Z80rQ",
+            "https://drive.google.com/uc?export=view&id=1iyJACnbYfpMeno9naIXODUrfoOSoKTU0",
+            "https://drive.google.com/uc?export=view&id=1izdRpOCeiXdQzSprAsZUsMiJphlOqDz0",
+            "https://drive.google.com/uc?export=view&id=1j9dILE-yCXWVxpagqXDxJWFotWAcMccy",
+            "https://drive.google.com/uc?export=view&id=1j8-bko0mxM_0qJAFCSVe8ZvYCIbRgh2t",
+=======
             "https://drive.google.com/uc?export=view&id1QxHPQMAXMZh5IPPcRbDXOfCnSn-OMj1V",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+
         ]
         data_list = [
             {
 
+
+                
                 "nama": "Kharisma Gumilang",
                 "nim": "121450042",
                 "umur": "21",
@@ -129,6 +140,7 @@ if menu == "Kesekjenan":
                 "pesan":"Semangat bang !!!, tetap ganteng -juesi"# 1
             },
             {   
+
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
@@ -141,6 +153,7 @@ if menu == "Kesekjenan":
             },
         
             {
+
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -153,6 +166,7 @@ if menu == "Kesekjenan":
             },
         
             {   
+
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
@@ -165,6 +179,7 @@ if menu == "Kesekjenan":
             },
         
             {
+
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
