@@ -135,7 +135,7 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pagar Alam",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "keren banget kak",  
+                "kesan": "keren banget ka",  
                 "pesan":"semangat ngaspraknya kak !!!"# 1
             },
         
