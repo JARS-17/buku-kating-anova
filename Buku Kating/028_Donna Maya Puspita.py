@@ -103,8 +103,6 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-
-                "Ketua Himpunan"
                 "nama": "Kharisma Gumilang",
                 "nim": "121450042",
                 "umur": "21",
@@ -115,7 +113,7 @@ if menu == "Kesekjenan":
                 "kesan": "Berkharisma dan Menginspirasi",  
                 "pesan":"Semangat buat TA nya, sehat selalu!"# 1
             },
-            {   "Sekretaris Jenderal"
+            {   
                 "nama": "Pandra Insani Putra Anwar",
                 "nim": "121450147",
                 "umur": "21",
@@ -127,7 +125,6 @@ if menu == "Kesekjenan":
                 "pesan":"Semangat bang !!!, tetap ganteng -juesi"# 1
             },
             {   
-                "Sekretaris Umum"
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
@@ -140,7 +137,6 @@ if menu == "Kesekjenan":
             },
         
             {
-                "Sekretaris 1"
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -153,7 +149,6 @@ if menu == "Kesekjenan":
             },
         
             {   
-                "Bendahara Umum"
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
@@ -166,7 +161,6 @@ if menu == "Kesekjenan":
             },
         
             {
-                "Bendahara 1"
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
