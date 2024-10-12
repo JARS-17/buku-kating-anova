@@ -97,11 +97,11 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id1QxHPQMAXMZh5IPPcRbDXOfCnSn-OMj1V",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1QBz8IY9SaUOEVda7HO3Rg2n3GJWUhh7s",
+            "https://drive.google.com/uc?export=view&id=1QW6c2gdj70Cnn0ugf5ILrHy7w8rBQTUU",
+            "https://drive.google.com/uc?export=view&id=1QYfD6nZTZUU2eYAGizNngKlZ56GBrLAE",
+            "https://drive.google.com/uc?export=view&id=1QaP9_2DshXef4aZ1bDTu5k1uCjY17rl3",
+            "https://drive.google.com/uc?export=view&id=1QdAeUxQwv8dicvEF1-H5JePBmYCOpJ1z",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
