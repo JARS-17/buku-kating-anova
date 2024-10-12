@@ -112,7 +112,7 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pulau Damar",
                 "hobbi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "Berkharisma dan Menginspirasi",  
+                "kesan": "Berkharisma dan Energetic",  
                 "pesan":"Semangat buat TA nya, sehat selalu!"# 1
             },
             {   "Sekretaris Jenderal"
@@ -123,8 +123,8 @@ if menu == "Kesekjenan":
                 "alamat": "Sukarame",
                 "hobbi": "Main Gitar",
                 "sosmed": "@pandrainsani27",
-                "kesan": "Keren banget dan Insight full",  
-                "pesan":"Semangat bang !!!, tetap ganteng -juesi"# 1
+                "kesan": "Kece abiezzz dan funny",  
+                "pesan":"Selalu ganteng bang"# 1
             },
             {   
                 "Sekretaris Umum"
@@ -135,7 +135,7 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pagar Alam",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "keren banget kak",  
+                "kesan": "Positive energy dan good listener",  
                 "pesan":"semangat ngaspraknya kak !!!"# 1
             },
         
@@ -148,8 +148,8 @@ if menu == "Kesekjenan":
                 "alamat": "Gg. Nangka 4",
                 "hobbi": "Dengerin Bg Pandra Main Gitar",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Cantik, pendengar yang baik ",  
-                "pesan":"Terimakasih udah support kami"# 1
+                "kesan": "Cantik dan rendah hati ",  
+                "pesan":"Semoga selalu baik hati kak"# 1
             },
         
             {   
@@ -162,7 +162,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@htrpdla",
                 "kesan": "cantik",  
-                "pesan":"Semangat ngurus cuannya"# 1
+                "pesan":"Semangat ngurus duitnya kak"# 1
             },
         
             {
@@ -172,9 +172,9 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Lampung",
                 "alamat": "Metro",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Belajar",
                 "sosmed": "@nadilaandr26",
-                "kesan": "vibes bendaharanya kerasa bgt",  
+                "kesan": "",  
                 "pesan":"Semangat ngasprak strukdatnya!"# 1
             },
         ]
