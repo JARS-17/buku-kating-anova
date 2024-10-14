@@ -97,14 +97,15 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1_u-IKsluakgB0pT6x8w8_-ZdmLosCqYw",
+            "https://drive.google.com/uc?export=view&id=1I6bGV0pG7Xq4bpM0_1ll26fY-KedU5V4",
+            "https://drive.google.com/uc?export=view&id=1iU4ZuyVV3aqoge15vG7Jnayp9oVBrNNA",
+            "https://drive.google.com/uc?export=view&id=1I65lwz6BRweI9H4sjxOgE_x6FDg1XQsT",
+            "https://drive.google.com/uc?export=view&id=1iTKlTZFbEQCk5x98Ri5vTXt6SpVsKBae",
+            "https://drive.google.com/uc?export=view&id=1I4B1hMrN_jFf3fb5qocDVl83cIlVMKiW",
         ]
         data_list = [
             {
-
-                "Ketua Himpunan"
                 "nama": "Kharisma Gumilang",
                 "nim": "121450042",
                 "umur": "21",
@@ -112,10 +113,10 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pulau Damar",
                 "hobbi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "Berkharisma dan Menginspirasi",  
-                "pesan":"Semangat buat TA nya, sehat selalu!"# 1
+                "kesan": "Cakep dan Berkarisma",
+                "pesan":"Semangat buat TA nya, sukses selalu!"# 1
             },
-            {   "Sekretaris Jenderal"
+            {   
                 "nama": "Pandra Insani Putra Anwar",
                 "nim": "121450147",
                 "umur": "21",
@@ -124,10 +125,9 @@ if menu == "Kesekjenan":
                 "hobbi": "Main Gitar",
                 "sosmed": "@pandrainsani27",
                 "kesan": "Keren banget dan Insight full",  
-                "pesan":"Semangat bang !!!, tetap ganteng -juesi"# 1
+                "pesan":"Tetap semangat dan sukses selalu bang!"# 1
             },
             {   
-                "Sekretaris Umum"
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
@@ -135,12 +135,11 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pagar Alam",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "keren banget kak",  
-                "pesan":"semangat ngaspraknya kak !!!"# 1
+                "kesan": "keren, pendengar yang baik",  
+                "pesan":"semangat terus kakak!!!"# 1
             },
         
             {
-                "Sekretaris 1"
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -149,11 +148,10 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin Bg Pandra Main Gitar",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Cantik, pendengar yang baik ",  
-                "pesan":"Terimakasih udah support kami"# 1
+                "pesan":"Semangat untuk ngurus TA dan sukses selalu!! "# 1
             },
         
             {   
-                "Bendahara Umum"
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
@@ -162,11 +160,10 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@htrpdla",
                 "kesan": "cantik",  
-                "pesan":"Semangat ngurus cuannya"# 1
+                "pesan":"Semangat ngurus cuan dan persiapan TA nya!!"# 1
             },
         
             {
-                "Bendahara 1"
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
@@ -174,8 +171,8 @@ if menu == "Kesekjenan":
                 "alamat": "Metro",
                 "hobbi": "Mainn Bola, Belajar",
                 "sosmed": "@nadilaandr26",
-                "kesan": "vibes bendaharanya kerasa bgt",  
-                "pesan":"Semangat ngasprak strukdatnya!"# 1
+                "kesan": "vibes bendahara bgt",  
+                "pesan":"Semangat ngasprak dan persiapan TA nya!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -187,40 +184,136 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Tri Murniya Ningsih",
+                "nim": "1214500038",
+                "umur": "21",
+                "asal":"Bogor",
+                "alamat": "Raden Saleh",
+                "hobbi": "Nanya ke Gpt",
+                "sosmed": "@trimurniaa_",
+                "kesan": "Asik, murah senyum, pendengar yang baik",  
+                "pesan":"semangat untuk menjalani hari hari dan persiapan TA nya!!"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Annisa Cahyani Surya",
+                "nim": "121450114",
+                "umur": "21",
+                "asal":"Tangerang Selatan",
+                "alamat": "Way Huwi",
+                "hobbi": "Membaca dan Menonton",
+                "sosmed": "@annisacahyanisurya",
+                "kesan": "Asik, murah senyum",  
+                "pesan":"Semangat menjalani hari-hari dan persiapan TA nya!!"# 1
             },
             {
-                "nama": "Kakak DD",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal":"Medan",
+                "alamat": "Raden Saleh",
+                "hobbi": "Belajar, Nonton film, Tidur",
+                "sosmed": "@wlsbn0",
+                "kesan": "asik saat mengobrol",  
+                "pesan":"semangat menjalani hari-hari dan persiapan TA nya!!"# 1
+            },
+             {
+                "nama": "Anisa Dini Amalia",
+                "nim": "121450081",
+                "umur": "20",
+                "asal":"Tangerang",
+                "alamat": "Jati Agung",
+                "hobbi": "Nonton Drama China",
+                "sosmed": "@anisadini10",
+                "kesan": "seru dan asik ",  
+                "pesan":"semangat menjalani hari-hari dan pesiapan TA nya!!"# 1
+            },
+             {
+                "nama": "Feriyadi Yulius",
+                "nim": "122450087",
+                "umur": "20",
+                "asal":"Sumatera Selatan",
+                "alamat": "Way Kandis",
+                "hobbi": "Baca Buku",
+                "sosmed": "@fer-yulius",
+                "kesan": "asik dan baik",  
+                "pesan":"semangat terus menjalani hari-harinya dan kuliahnya!!"# 1
+            },
+             {
+                "nama": "Renisha Putri Giani",
+                "nim": "122450079",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk Betung",
+                "hobbi": "Jualan Pancing",
+                "sosmed": "@pleurnsh",
+                "kesan": "asik dan baik",  
+                "pesan":"semangat terus menjalani hari-hari dan kuliahnya !!"# 1
+            },
+             {
+                "nama": "Claudhia Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Tidur",
+                "sosmed": "@dylldbee",
+                "kesan": "asik dan baik",  
+                "pesan":"semangat terus menjalani hari-harinya dan persiapan TA nya !!"# 1
+            },
+             {
+                "nama": "Mirzan Yusuf Rabbani",
+                "nim": "122450110",
+                "umur": "20",
+                "asal":"Jakarta",
+                "alamat": "Korpri",
+                "hobbi": "Tidur yang lama dan main kucing",
+                "sosmed": "@myrrinn",
+                "kesan": "asik dan baik",  
+                "pesan":"semangat terus menjalani hari-harinya dan kuliahnya !!"# 1
+            },
+             {
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"Surakarta,Jawa Tengah",
+                "alamat": "Sukarame",
+                "hobbi": "Melukis dan Olahraga",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "asik dan baik",  
+                "pesan":"semangat terus menjalani hari-harinya dan persiapan TA nya !!"# 1
+            },
+             {
+                "nama": "Jeremi Susanto",
+                "nim": "122450022",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobbi": "Bengong",
+                "sosmed": "@jeremi_s_",
+                "kesan": "keren banget kak!!",  
+                "pesan":"semangat terus menjelani hari-hari dan kuliahnya kakak !!"# 1
+            },
+             {
+                "nama": "Berlinda Enda Putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal":"Sumatera Barat",
+                "alamat": "Way Huwi",
+                "hobbi": "MDuduk di tepi pantai dambil galauin bintang yang tinggal satu",
+                "sosmed": "@berlyynda",
+                "kesan": "asik,lucu dan seru",  
+                "pesan":"semangat terus menjalani hari-hari dan kuliahnya kakak !!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)

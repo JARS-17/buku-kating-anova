@@ -97,14 +97,15 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1K-Mb7QcEJtdmADdy7bnIKzhGlOA-Rrpb",
+            "https://drive.google.com/uc?export=view&id=1MfzFXfPq9zzp09IdOQudezhyy0iAw5LG",
+            "https://drive.google.com/uc?export=view&id=1PH9FaszLQyoeiIz4qVk0CJ1vrB5Mf9p-",
+            "https://drive.google.com/uc?export=view&id=1mTyqFWwLfoOlWMax2zeB22mS6AX_36vV",
+            "https://drive.google.com/uc?export=view&id=13B6154zsrRX419a0nZM3y8P__3tpVfzR",
+            "https://drive.google.com/uc?export=view&id=1O49loCksGwswHL9JpiR8rDpHPh1RCHdx",
         ]
         data_list = [
             {
-
-                "Ketua Himpunan"
                 "nama": "Kharisma Gumilang",
                 "nim": "121450042",
                 "umur": "21",
@@ -112,10 +113,10 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pulau Damar",
                 "hobbi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "Berkharisma dan Menginspirasi",  
+                "kesan": "Berkharisma dan Energetic",  
                 "pesan":"Semangat buat TA nya, sehat selalu!"# 1
             },
-            {   "Sekretaris Jenderal"
+            {   
                 "nama": "Pandra Insani Putra Anwar",
                 "nim": "121450147",
                 "umur": "21",
@@ -123,11 +124,10 @@ if menu == "Kesekjenan":
                 "alamat": "Sukarame",
                 "hobbi": "Main Gitar",
                 "sosmed": "@pandrainsani27",
-                "kesan": "Keren banget dan Insight full",  
-                "pesan":"Semangat bang !!!, tetap ganteng -juesi"# 1
+                "kesan": "Kece abiezzz dan funny",  
+                "pesan":"Selalu ganteng bang"# 1
             },
             {   
-                "Sekretaris Umum"
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
@@ -135,12 +135,11 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pagar Alam",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "keren banget kak",  
+                "kesan": "Positive energy dan good listener",  
                 "pesan":"semangat ngaspraknya kak !!!"# 1
             },
         
             {
-                "Sekretaris 1"
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
@@ -148,12 +147,11 @@ if menu == "Kesekjenan":
                 "alamat": "Gg. Nangka 4",
                 "hobbi": "Dengerin Bg Pandra Main Gitar",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Cantik, pendengar yang baik ",  
-                "pesan":"Terimakasih udah support kami"# 1
+                "kesan": "Cantik dan rendah hati ",  
+                "pesan":"Semoga selalu baik hati kak"# 1
             },
         
             {   
-                "Bendahara Umum"
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
@@ -162,19 +160,18 @@ if menu == "Kesekjenan":
                 "hobbi": "Nyanyi",
                 "sosmed": "@htrpdla",
                 "kesan": "cantik",  
-                "pesan":"Semangat ngurus cuannya"# 1
+                "pesan":"Semangat ngurus duitnya kak"# 1
             },
         
             {
-                "Bendahara 1"
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
                 "asal":"Lampung",
                 "alamat": "Metro",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Belajar",
                 "sosmed": "@nadilaandr26",
-                "kesan": "vibes bendaharanya kerasa bgt",  
+                "kesan": "",  
                 "pesan":"Semangat ngasprak strukdatnya!"# 1
             },
         ]
