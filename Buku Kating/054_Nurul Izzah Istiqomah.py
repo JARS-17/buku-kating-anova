@@ -326,7 +326,6 @@ elif menu == "Senator":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -963,26 +962,92 @@ elif menu == "DEPARTEMEN SSD ":
         ]
         data_list = [
             {
-                "nama": "Yusuf Fikri",
-                "nim": "121450010",
-                "umur": "22",
-                "asal": "Jakarta",
-                "alamat": "Jakarta",
-                "hobbi": "Baca",
-                "sosmed": "@yusuf_fikri",
-                "kesan": "Abangnya keren banget",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "nama": "Andrian Agustinus Lumban Gaol",
+                "nim": "121450090",
+                "umur": "17 +",
+                "asal": "Sidikalang",
+                "alamat": "Lapas",
+                "hobbi": "Nyari Hobi",
+                "sosmed": "@andrialgaol",
+                "kesan": "Public speakingnya bagus bangett",
+                "pesan": "Semangat cari duitnya bang", 
             },
             {
-                "nama": "Yusuf Fikri",
-                "nim": "121450010",
-                "umur": "22",
-                "asal": "Jakarta",
-                "alamat": "Jakarta",
-                "hobbi": "Baca",
-                "sosmed": "@yusuf_fikri",
-                "kesan": "Abangnya keren banget",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari",
+                "nama": "Adisty Syawaida Ariyanto",
+                "nim": "121450136",
+                "umur": "21",
+                "asal": "Metro",
+                "alamat": "Metro",
+                "hobbi": "Nonton film",
+                "sosmed": "@adistisa_",
+                "kesan": "Keren banget kak",
+                "pesan": "Semangat kuliahnya kak",
+            }
+            {
+                "nama": "Nabila Azhari",
+                "nim": "121450029",
+                "umur": "21",
+                "asal": "Simalungun",
+                "alamat": "Airan",
+                "hobbi": "Menghitung",
+                "sosmed": "@zhjung",
+                "kesan": "",
+                "pesan": "",
+            }
+            {
+                "nama": "Danang Hilal Kurniawan",
+                "nim": "122450085",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "TB 3 Asrama",
+                "hobbi": "Belajar",
+                "sosmed": "@dananghk_",
+                "kesan": "",
+                "pesan": "",
+            }
+            {
+                "nama": "Farel Julio Akbar",
+                "nim": "122450110",
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Jalan Lapas",
+                "hobbi": "Bebas",
+                "sosmed": "@farel__julio",
+                "kesan": "",
+                "pesan": "",
+            }
+            {
+                "nama": "Nabilah Andika Fitriani",
+                "nim": "121450129",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Kedaton",
+                "hobbi": "Tidur",
+                "sosmed": "@nabilaafrn",
+                "kesan": "",
+                "pesan": "",
+            }
+            {
+                "nama": "Alvia Asrinda Br.Ginting",
+                "nim": "122450077",
+                "umur": "20",
+                "asal": "Binjai",
+                "alamat": "Korpri",
+                "hobbi": "Nonton Windah",
+                "sosmed": "@alviaginting",
+                "kesan": "",
+                "pesan": "",
+            }
+            {
+                "nama": "Dhafin Razaka Luthfia",
+                "nim": "122450133",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Jalan nangka 1",
+                "hobbi": "Olahraga",
+                "sosmed": "@dhafinrzqri3",
+                "kesan": "",
+                "pesan": "",
             }
         ]
         display_images_with_data(gambar_urls, data_list)
