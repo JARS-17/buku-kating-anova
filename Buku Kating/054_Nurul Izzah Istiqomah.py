@@ -465,7 +465,7 @@ elif menu == "DEPARTEMEN PSDA":
         display_images_with_data(gambar_urls, data_list)
     Psda()
 
-elif menu == "Departemen MedKraf":
+elif menu == "Departemen MEDCRAF":
 
     def Medkraf():
         gambar_urls = [
@@ -694,6 +694,23 @@ elif menu == "Departemen MIKFES":
 
     def Mikfes():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1L83ddTKLOkpG1fKdb3wk45-vS0pEODt7",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1LoUlIUviXGoEnnV47K5WDUZj_bQ2Nkc0",
+            "https://drive.google.com/uc?export=view&id=1LE_a-uZa-CR08i4Llhjnbr9O5s_YHeKs",
+            "https://drive.google.com/uc?export=view&id=1Lim8CYoKRrUHX6jQqERkQ1z52uS7DljC",
+            "https://drive.google.com/uc?export=view&id=1LXFOPPONHpmiVEVo7cDYBCGhA_lcAs-M",
+            "https://drive.google.com/uc?export=view&id=1L2pjK7kIkARCFoJU9YIcnn3mb_wtsE5n",
+            "https://drive.google.com/uc?export=view&id=1KziYaJpqY6Poo-agqaJtX-lILAUFFIhi",
+            "https://drive.google.com/uc?export=view&id=1LeQa16ReSDVb5qI-xWhQvI-ybEcNLuw1",
+            "https://drive.google.com/uc?export=view&id=1LZB09yyV1doy32QKo6yB0UW5OrOGc1IV",
+            "https://drive.google.com/uc?export=view&id=1KregWnEoR44iVj5FzzI7TEUJ9InHFjAU",
+            "https://drive.google.com/uc?export=view&id=1LZkKDzrYOxXghUH5hz2WYGWe1nsiS1G9",
+            "https://drive.google.com/uc?export=view&id=1L_ZSBVgl0tWTf6V-iGkx84cTjg9bDWss",
+            "https://drive.google.com/uc?export=view&id=1LOTriGPrCWeT6S4FBBXfvx12rnpq55tv",
+            "https://drive.google.com/uc?export=view&id=1L1Zg5OkA_CKSy70EIq1ryOqLN4Lw9wNM",
+            "https://drive.google.com/uc?export=view&id=1L-OXf5EyKTufvBgzAbGgd0BQ22nQatdz",
+            "https://drive.google.com/uc?export=view&id=1LLfAVeGq3LWTvbspya38v90AuVrkCUTP",
         ] 
         data_list = [
             {
