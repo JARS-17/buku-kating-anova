@@ -486,6 +486,8 @@ elif menu == "Departemen MEDCRAF":
             "https://drive.google.com/uc?export=view&id=1Bsb703i0-k5XpSXD2-bAcgnIX-g_dwHw",
             "https://drive.google.com/uc?export=view&id=1Ca5PRh3j-McJY30SFdyugPuLqNd18V5H",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            
         ]
         data_list = [
             {
@@ -553,17 +555,6 @@ elif menu == "Departemen MEDCRAF":
                 "sosmed": "@ekafdyaptri",
                 "kesan": "senang bisa belajar dari kakak",
                 "pesan": "Sampai ketemu lagi di kampus ya,kak", 
-            },
-            {
-                "nama": "Najla Juwairia",
-                "nim": "122450037",
-                "umur": "19",
-                "asal": "Sumatra Utara",
-                "alamat": "Airan",
-                "hobbi": "Menulis, Membaca, fangirling",
-                "sosmed": "@nanana_minjoo",
-                "kesan": "kakak keren banget",
-                "pesan": "terimakasih atas sharing nya", 
             },
             {
                 "nama": "Patricia Leondra Diajeng Putri ",
@@ -686,6 +677,17 @@ elif menu == "Departemen MEDCRAF":
                 "kesan": "Senang bisa belajar dari kakak",
                 "pesan": "Semangat kuliahnya kak", 
             },
+             {
+                "nama": "Najla Juwairia",
+                "nim": "122450037",
+                "umur": "19",
+                "asal": "Sumatra Utara",
+                "alamat": "Airan",
+                "hobbi": "Menulis, Membaca, fangirling",
+                "sosmed": "@nanana_minjoo",
+                "kesan": "kakak keren banget",
+                "pesan": "terimakasih atas sharing nya", 
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     Medkraf()
@@ -695,7 +697,6 @@ elif menu == "Departemen MIKFES":
     def Mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1L83ddTKLOkpG1fKdb3wk45-vS0pEODt7",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1LoUlIUviXGoEnnV47K5WDUZj_bQ2Nkc0",
             "https://drive.google.com/uc?export=view&id=1LE_a-uZa-CR08i4Llhjnbr9O5s_YHeKs",
             "https://drive.google.com/uc?export=view&id=1Lim8CYoKRrUHX6jQqERkQ1z52uS7DljC",
@@ -709,7 +710,10 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1L_ZSBVgl0tWTf6V-iGkx84cTjg9bDWss",
             "https://drive.google.com/uc?export=view&id=1LOTriGPrCWeT6S4FBBXfvx12rnpq55tv",
             "https://drive.google.com/uc?export=view&id=1L1Zg5OkA_CKSy70EIq1ryOqLN4Lw9wNM",
+            "https://drive.google.com/uc?export=view&id=1LDa4cEsoK3CNCYN_BvK_L1Lt7bWFr6oM",
+            "https://drive.google.com/uc?export=view&id=1LQFmAxjfPLmUMyiw2pN_Fx1tt6CYVHTw",
             "https://drive.google.com/uc?export=view&id=1L-OXf5EyKTufvBgzAbGgd0BQ22nQatdz",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1LLfAVeGq3LWTvbspya38v90AuVrkCUTP",
         ] 
         data_list = [
@@ -721,17 +725,6 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Nangka 4",
                 "hobbi": "Olahraga",
                 "sosmed": "@rafadhilillahh13",
-                "kesan": "-",
-                "pesan": "-",
-            },
-            {
-                "nama": "Annisa Novantika",
-                "nim": "121450005",
-                "umur": "21 Tahun",
-                "asal": "Lampung Utara",
-                "alamat": "Jl. Pulau Sebesi, Sukarame",
-                "hobbi": " Memasak",
-                "sosmed": "@anovavona",
                 "kesan": "-",
                 "pesan": "-",
             },
@@ -919,6 +912,17 @@ elif menu == "Departemen MIKFES":
                 "alamat": " Sukarame",
                 "hobbi": " Tidur dan Berkembang",
                 "sosmed": "@randaandriana_",
+                "kesan": "-",
+                "pesan": "-",
+            },
+            {
+                "nama": "Annisa Novantika",
+                "nim": "121450005",
+                "umur": "21 Tahun",
+                "asal": "Lampung Utara",
+                "alamat": "Jl. Pulau Sebesi, Sukarame",
+                "hobbi": " Memasak",
+                "sosmed": "@anovavona",
                 "kesan": "-",
                 "pesan": "-",
             },
