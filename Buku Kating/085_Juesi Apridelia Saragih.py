@@ -467,7 +467,7 @@ elif menu == "DEPARTEMEN PSDA":
         display_images_with_data(gambar_urls, data_list)
     Psda()
 
-elif menu == "Departemen MedKraf":
+elif menu == "Departemen MEDCRAF":
 
     def Medkraf():
         gambar_urls = [
