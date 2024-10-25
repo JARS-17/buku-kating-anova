@@ -191,8 +191,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=16YrdONWJ0JKty0idDU35IrV89JFCy0g1",
             "https://drive.google.com/uc?export=view&id=16YrdONWJ0JKty0idDU35IrV89JFCy0g1",
             "https://drive.google.com/uc?export=view&id=15wXYT6Ix0BGYNN17DFhkBE3ux2u9MACt",
-            "https://drive.google.com/uc?export=view&id=1DW0Xp2BAzU-X33P3QMnmfx2AMksfTS2K"
-            
+            "https://drive.google.com/uc?export=view&id=1DW0Xp2BAzU-X33P3QMnmfx2AMksfTS2K",
         ]
         data_list = [
             {
