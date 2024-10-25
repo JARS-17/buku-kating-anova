@@ -1128,7 +1128,7 @@ elif menu == "DEPARTEMEN INTERNAL ":
                 "hobbi": "Manjat towerr sutet",
                 "sosmed": "@dimzrky",
                 "kesan": "Berkharisma banget",
-                "pesan": "Semangat nyusun TA nya bang dimas", 
+                "pesan": "Semangat nyusun TA nya bang dimass", 
             },
             {
                 "nama": "Catherine firdhasari maulina sinaga",
