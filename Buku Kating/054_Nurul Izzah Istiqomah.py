@@ -324,8 +324,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1K_iWKcWEALDAhqtdZQorDcjzFZwQbxsk",
+            "https://drive.google.com/uc?export=view&id=1Os-txXjA5rWUz3g_V7n0ZoBiKLc6xwdt",
         ]
         data_list = [
             {
@@ -469,7 +469,23 @@ elif menu == "Departemen MedKraf":
 
     def Medkraf():
         gambar_urls = [
-         
+            "https://drive.google.com/uc?export=view&id=1C8b0zTwOYJjwlBEnGMJ5tNVehfNOdDmS",
+            "https://drive.google.com/uc?export=view&id=1Bh5EKkvhP7nqdxD_gkGqMx_yinUNZPws",
+            "https://drive.google.com/uc?export=view&id=1Cm9s5vPL93OcHdug3odwW0Hju1yZWwbV",
+            "https://drive.google.com/uc?export=view&id=1CJp6azbQrBxs8_CVfqdRU1q5zOH0r5Q3",
+            "https://drive.google.com/uc?export=view&id=1BlgCsfgIEgPatb-eEk8bd3_5iSj73X_P",
+            "https://drive.google.com/uc?export=view&id=1Ca1FIDxl6WNtdAJth49lS6524HGyG9RT",
+            "https://drive.google.com/uc?export=view&id=1CfL-KWkL1Y4ZqVsfDvoQVNDEezOXzpDK",
+            "https://drive.google.com/uc?export=view&id=1CtChTqbnuAgGUVNlFuCDaZtLwST_2oEa",
+            "https://drive.google.com/uc?export=view&id=1Cd7tv8lCA3B7iU2ycgf8ZT1uajlr3yi2",
+            "https://drive.google.com/uc?export=view&id=1CgZOAbinDdgF7Tl8yXu5N64-jJdkkrGH",
+            "https://drive.google.com/uc?export=view&id=1CUTFWfBj2SOdjjsK97dVKdUsELqV2zv0",
+            "https://drive.google.com/uc?export=view&id=1CBS9U8r5MlTmJG13YYQ5PHp9Z9Psma4v",
+            "https://drive.google.com/uc?export=view&id=1CDNdCi1PxQH_ydpl5sx74lGdKA2wiQw6",
+            "https://drive.google.com/uc?export=view&id=1C7BVo7tIWZdoWZlF58dIpQ_0mA3RwYdg",
+            "https://drive.google.com/uc?export=view&id=1Bsb703i0-k5XpSXD2-bAcgnIX-g_dwHw",
+            "https://drive.google.com/uc?export=view&id=1Ca5PRh3j-McJY30SFdyugPuLqNd18V5H",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -493,17 +509,6 @@ elif menu == "Departemen MedKraf":
                 "sosmed": "@elokfiola",
                 "kesan": "Manis bangett kakk",
                 "pesan": "Semangat ya kak, tetap ramah", 
-            },
-            {
-                "nama": "Arsyiah Azahra",
-                "nim": "121450035",
-                "umur": "21",
-                "asal": "Bandar Lampung",
-                "alamat": "Tanjung Senang",
-                "hobbi": "Nugas",
-                "sosmed": "@arsyiah._",
-                "kesan": "Senang bisa belajar dari kakak",
-                "pesan": "Semangat kuliahnya kak", 
             },
             {
                 "nama": "Muhammad Kaisar Firdaus ",
@@ -653,7 +658,7 @@ elif menu == "Departemen MedKraf":
                 "nim": "122450078",
                 "umur": "20",
                 "asal": "Lampung Selatan",
-                "alamat": "",
+                "alamat": "Jati Agung",
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
                 "kesan": "Sharing ilmunya keren banget kak",
@@ -668,6 +673,17 @@ elif menu == "Departemen MedKraf":
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
                 "kesan": "kakaknya ramah banget",
+                "pesan": "Semangat kuliahnya kak", 
+            },
+            {
+                "nama": "Arsyiah Azahra",
+                "nim": "121450035",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Tanjung Senang",
+                "hobbi": "Nugas",
+                "sosmed": "@arsyiah._",
+                "kesan": "Senang bisa belajar dari kakak",
                 "pesan": "Semangat kuliahnya kak", 
             },
         ]
