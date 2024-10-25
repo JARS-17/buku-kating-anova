@@ -499,7 +499,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Nonton",
                 "sosmed": "wayylaja",
                 "kesan": "Abangnya keren banget",
-                "pesan": "Semangat kuliahnya bang",
+                "pesan": "Semangat kuliahnya bangg",
             },
             {
                 "nama": "Elok Fiola",
