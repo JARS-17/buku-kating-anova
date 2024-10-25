@@ -98,7 +98,7 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1nJNzJ4_GnFKh-f09CLh_VfvTn0_rryV-",
-            "https://drive.google.com/uc?export=view&id=18zzttrggsfHBAYENQC_So7LTwpQSuReU",
+            "https://drive.google.com/uc?export=view&id=1_aFB_x-ut6-CObYMTcPQ9k8veEE1gDS2",
             "https://drive.google.com/uc?export=view&id=1xZ1E67k3eMQEynERjYg0W9RkFZiYBZ_y",
             "https://drive.google.com/uc?export=view&id=1Oc5-DLSDOJiuWDHRiezyRBUk7GoUrkyR",
             "https://drive.google.com/uc?export=view&id=18zzttrggsfHBAYENQC_So7LTwpQSuReU",
@@ -173,7 +173,7 @@ if menu == "Kesekjenan":
                 "umur": "21",
                 "asal":"Lampung",
                 "alamat": "Metro",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobbi": "Membaca",
                 "sosmed": "@nadilaandr26",
                 "kesan": "Publick speakingnya bagus",  
                 "pesan":"Semangat ngasprak strukdatnya kak!"# 1

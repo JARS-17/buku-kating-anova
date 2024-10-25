@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen Medcraf",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -42,7 +44,7 @@ def streamlit_menu():
                 "margin": "0px",
                 "--hover-color": "#eee",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#FEF9D9"},
         },
     )
     return selected
@@ -114,7 +116,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Berkharisma dan Menginspirasi",  
-                "pesan":"Semangat buat TA nya, sehat selalu!"# 1
+                "pesan":"Semangat buat TA nya bang, sehat selalu!"# 1
             },
             {   
                 "nama": "Pandra Insani Putra Anwar",
@@ -135,7 +137,7 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pagar Alam",
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "keren banget kak",  
+                "kesan": "keren banget ka",  
                 "pesan":"semangat ngaspraknya kak !!!"# 1
             },
         

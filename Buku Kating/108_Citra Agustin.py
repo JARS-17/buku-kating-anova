@@ -106,8 +106,6 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-
-                "Ketua Himpunan"
                 "nama": "Kharisma Gumilang",
                 "nim": "121450042",
                 "umur": "21",
@@ -130,7 +128,6 @@ if menu == "Kesekjenan":
                 "pesan":"Semangat bang dan tetap kece"# 1
             },
             {   
-                "Sekretaris Umum"
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
                 "umur": "20",
@@ -308,11 +305,10 @@ elif menu == "Baleg":
                 "hobbi": "Duduk di tepi pantai sambil galauin bintang ynag tinggal satu",
                 "sosmed": "@berlyyanda",
                 "kesan": "lucu dan seru",  
-                "pesan":"sukses terus kak"# 1
+                "pesan":"sukses terus ka"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
 # Tambahkan menu lainnya sesuai kebutuhan
-h
