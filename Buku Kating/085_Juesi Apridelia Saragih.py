@@ -496,7 +496,7 @@ elif menu == "Departemen MEDCRAF":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
                 "sosmed": "@wayylaja",
-                "kesan": "Makasih banget buat ide-ide kreatif dan semangatnya bang",
+                "kesan": "Makasih banget buat ide-ide kreatif dan semangatnya bangg",
                 "pesan": "Terus berkarya dan sukses selalu buat proyek ke depannya!",
             },
             {
@@ -642,7 +642,7 @@ elif menu == "Departemen MEDCRAF":
                 "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
                 "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
             },
-             {
+            {
                 "nama": "Akmal Faiz Abdillah",
                 "nim": "122450114",
                 "umur": "20",
@@ -653,7 +653,7 @@ elif menu == "Departemen MEDCRAF":
                 "kesan": "Amazed banget ssama abang",
                 "pesan": "Selalu semangat bang!", 
             },
-             {
+            {
                 "nama": "Hermawan Manurung ",
                 "nim": "122450069",
                 "umur": "20",
@@ -664,7 +664,7 @@ elif menu == "Departemen MEDCRAF":
                 "kesan": "Abang lucu dan keren banget!",
                 "pesan": "Semoga makin kreatif bang setiap harinya", 
             },
-             {
+            {
                 "nama": "Khusnun Nisa",
                 "nim": "122450078",
                 "umur": "20",
@@ -675,7 +675,7 @@ elif menu == "Departemen MEDCRAF":
                 "kesan": "Kakak bener bener menginspirasi",
                 "pesan": "Tetap menginspirasi kita ya kak!", 
             },
-             {
+            {
                 "nama": "Priska Silvia Ferantiana",
                 "nim": "122450053",
                 "umur": "20",
