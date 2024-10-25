@@ -1322,7 +1322,7 @@ elif menu == "DEPARTEMEN SSD ":
                 "hobbi": "Olahraga",
                 "sosmed": "@dhafinrzqri3",
                 "kesan": "Terimakasih ilmunya kak",
-                "pesan": "Semangat kuliahnya kak",
+                "pesan": "Semangat kuliahnya ya kak",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
