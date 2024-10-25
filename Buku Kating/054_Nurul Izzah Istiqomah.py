@@ -541,7 +541,7 @@ elif menu == "Departemen MedKraf":
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
                 "kesan": "Suka banget sama outfit kakak, cocok banget di divisi media & konten",
-                "pesan": "semangat kuliahnya kak", 
+                "pesan": "semangat kuliahnya kakk", 
             },
             {
                 "nama": "Eka Fidiya Putri",
