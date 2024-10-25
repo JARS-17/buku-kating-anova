@@ -1257,7 +1257,7 @@ elif menu == "DEPARTEMEN SSD ":
                 "sosmed": "@adistisa_",
                 "kesan": "Keren banget kak",
                 "pesan": "Semangat kuliahnya kak",
-            }
+            },
             {
                 "nama": "Nabila Azhari",
                 "nim": "121450029",
@@ -1268,7 +1268,7 @@ elif menu == "DEPARTEMEN SSD ":
                 "sosmed": "@zhjung",
                 "kesan": "seru banget kakaknya",
                 "pesan": "Menjadi pribadi yang lebih baik kedepannya",
-            }
+            },
             {
                 "nama": "Danang Hilal Kurniawan",
                 "nim": "122450085",
@@ -1279,7 +1279,7 @@ elif menu == "DEPARTEMEN SSD ":
                 "sosmed": "@dananghk_",
                 "kesan": "abangnya keren banget menginsprirasi",
                 "pesan": "Semangat ngaspraknya bang",
-            }
+            },
             {
                 "nama": "Farel Julio Akbar",
                 "nim": "122450110",
@@ -1290,7 +1290,7 @@ elif menu == "DEPARTEMEN SSD ":
                 "sosmed": "@farel__julio",
                 "kesan": "Abangnya ramah banget",
                 "pesan": "Semangat abang kapo",
-            }
+            },
             {
                 "nama": "Nabilah Andika Fitriani",
                 "nim": "121450129",
@@ -1301,7 +1301,7 @@ elif menu == "DEPARTEMEN SSD ":
                 "sosmed": "@nabilaafrn",
                 "kesan": "Sharing ilmunya keren banget",
                 "pesan": "Semangat kuliahnya kak",
-            }
+            },
             {
                 "nama": "Alvia Asrinda Br.Ginting",
                 "nim": "122450077",
@@ -1312,7 +1312,7 @@ elif menu == "DEPARTEMEN SSD ":
                 "sosmed": "@alviaginting",
                 "kesan": "Terimakasih insightnya kak",
                 "pesan": "Semangat kuliahnya kak",
-            }
+            },
             {
                 "nama": "Dhafin Razaka Luthfia",
                 "nim": "122450133",
@@ -1323,7 +1323,7 @@ elif menu == "DEPARTEMEN SSD ":
                 "sosmed": "@dhafinrzqri3",
                 "kesan": "Terimakasih ilmunya kak",
                 "pesan": "Semangat kuliahnya kak",
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     Ssd()
