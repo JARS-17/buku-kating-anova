@@ -1125,7 +1125,7 @@ elif menu == "DEPARTEMEN INTERNAL ":
                 "umur": "20",
                 "asal": "Pamulang",
                 "alamat": "Way kandis",
-                "hobbi": "Manjat tower sutet",
+                "hobbi": "Manjat towerr sutet",
                 "sosmed": "@dimzrky",
                 "kesan": "Berkharisma banget",
                 "pesan": "Semangat nyusun TA nya bang dimas", 
