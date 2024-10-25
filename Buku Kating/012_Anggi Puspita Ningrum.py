@@ -187,7 +187,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=17EZ-6JYKOCd5KCjKEezsIPVlIvMEB4kX",
             "https://drive.google.com/uc?export=view&id=17EK7qtBL56-xJzOoDnM9VbNp3bHCMz4A",
             "https://drive.google.com/uc?export=view&id=17QVO3UFaUFClE9XdkK13mN9B2y5Y3iTt",
-            "https://drive.google.com/uc?export=view&id=7x5VXHFw7H56MUzRVPpTR_C1cxKo8VXX",
+            "https://drive.google.com/uc?export=view&id=17x5VXHFw7H56MUzRVPpTR_C1cxKo8VXX",
             "https://drive.google.com/uc?export=view&id=17nuKp4XMIA9vbNnqR1GzhTLke5SN5JLd",
             "https://drive.google.com/uc?export=view&id=17X8juYfbPFloccQPtcGHe0-jX90ehLbR",
             "https://drive.google.com/uc?export=view&id=17sNXRcKnWVQKwNdv3ne8jSYy-_Jgxxit",
@@ -324,9 +324,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1GuhpEc8X8INrIoYKSS81N55q4_i0LwIQ",
+            "https://drive.google.com/uc?export=view&id=18dYYhU18i3Axl5VVLz6Y3TQnznnrKXq4",
         ]
         data_list = [
             {
@@ -338,7 +337,7 @@ elif menu == "Senator":
                 "hobbi": "Dengerin bintang nyanyi",
                 "sosmed": "@anissalutfi_",
                 "kesan": "kakaknya keren banget",
-                "pesan": "Semangat kuliahnya kak, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat menjakani hari hari dan persiapan TA nya kak", 
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -349,7 +348,7 @@ elif menu == "Senator":
                 "hobbi": "Nyanyi",
                 "sosmed": "@bintangtwinkle",
                 "kesan": "Abangnya keren banget",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari",
+                "pesan": "Semangat menjalani hari hari dan kuliahnya bang!!",
             }
         ]
         display_images_with_data(gambar_urls, data_list)
