@@ -934,7 +934,7 @@ elif menu == "DEPARTEMEN INTERNAL ":
         data_list = [
             {
                 "nama": "Dimas rizky ramadhani",
-                "nim": "121450027,
+                "nim": "121450027",
                 "umur": "20",
                 "asal": "Pamulang",
                 "alamat": "Way kandis",
