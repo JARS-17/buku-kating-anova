@@ -110,7 +110,7 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kharisma Gumilang",
+                "nama": "Kharisma Gumilang",     
                 "nim": "121450042",
                 "umur": "21",
                 "asal": "Palembang",
@@ -120,6 +120,7 @@ if menu == "Kesekjenan":
                 "kesan": "Berkharisma dan Menginspirasi",  
                 "pesan":"Semangat buat TA nya bang, sehat selalu!"# 1
             },
+
             {   
                 "nama": "Pandra Insani Putra Anwar",
                 "nim": "121450147",
@@ -131,6 +132,7 @@ if menu == "Kesekjenan":
                 "kesan": "Keren banget dan Insight full",  
                 "pesan":"Semangat bang !!!, tetap ganteng -juesi"# 1
             },
+
             {   
                 "nama": "Meliza Wulandari",
                 "nim": "121450065",
@@ -185,17 +187,12 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=167wCHlLHMhiUL7Fq-sU6ml2f0Smnqzu7",
-            "https://drive.google.com/uc?export=view&id=16aO3fLYDl3SNkKFwZATqrFTyL-Mxxdjd",
-            "https://drive.google.com/uc?export=view&id=16aFdrIXGx0z0DI0tRL4NaXpClmoFZoZp",
-            "https://drive.google.com/uc?export=view&id=16I6VY9LaeSrOM95qe5XVyFD8QijB7Lyf",
-            "https://drive.google.com/uc?export=view&id=1639tAESoKbZMGzqqnZHP3_nllqm9T4-3",
-            "https://drive.google.com/uc?export=view&id=16I-Gvi2Vo1NE_DND9UKE-9ITYdlu1LOT",
-            "https://drive.google.com/uc?export=view&id=16m3IMINY4KrmfNqFgeZPSjMITrzkLlbJ",
-            "https://drive.google.com/uc?export=view&id=16YrdONWJ0JKty0idDU35IrV89JFCy0g1",
-            "https://drive.google.com/uc?export=view&id=1mDP6qSMfaytFGLFQss9O6LzqH8fZhnaO",
-            "https://drive.google.com/uc?export=view&id=15wXYT6Ix0BGYNN17DFhkBE3ux2u9MACt",
-            "https://drive.google.com/uc?export=view&id=16cQLvWKslBh_FUFkr8am4fOy_czjwAnY",
+            "https://drive.google.com/uc?export=view&id=14dY_j7LracZ7RympCjtqFsQOg3_LsSII",
+            "https://drive.google.com/uc?export=view&id=19bNRn8-ACsxGD1zk5lDnG4imIQ76_cum",
+            "https://drive.google.com/uc?export=view&id=1BFDlRcrPgV5_PgFYv1d16g35EH3PpP5-",        
+            "https://drive.google.com/uc?export=view&id=1NuE1C3r8h3H0tp5xNAhRPtOvGuN_qVUR",
+            "https://drive.google.com/uc?export=view&id=1u5FHoOGSLJ6p9_dHmMEWq9_3JhATwcr_",
+            "https://drive.google.com/uc?export=view&id=1o8oDyT4ZKIuxVJQL6CaUvrsVsZHz3nBV",
         ]
         data_list = [
             {
@@ -209,6 +206,7 @@ elif menu == "Baleg":
                 "kesan": "Kakak cantik asprak alpro RA",  
                 "pesan":"semangat ngaspraknya kakak !!!"
             },
+
             {
                 "nama": "Annisa cahyani surya",
                 "nim": "121450114",
@@ -220,6 +218,7 @@ elif menu == "Baleg":
                 "kesan": "Kakak nya cantik banget",  
                 "pesan":"semoga TA nya lancar kakkk !!!"# 1
             },
+
             {
                 "nama": "Wulan sabina",
                 "nim": "121450150",
@@ -231,6 +230,7 @@ elif menu == "Baleg":
                 "kesan": "Kakak pasti orang baik kannn",  
                 "pesan":"semoga dilancarkan dan dimudahkan segala urusannya ya kak!!!"# 1
             },
+
             {
                 "nama": "Anisa dini amalia",
                 "nim": "121450081",
@@ -242,9 +242,10 @@ elif menu == "Baleg":
                 "kesan": "Waktu ngomongin hobinya, kakaknya keliatan seneng bgt",  
                 "pesan":"semangat maraton drachinnya kak !!!"# 1
             },
+
             {
                 "nama": "Feriyadi yulius",
-                "nim": "122450087",
+                "nim": "122450087",   
                 "umur": "20",
                 "asal":"Sumatera selatan",
                 "alamat": "Way kandis",
@@ -253,6 +254,7 @@ elif menu == "Baleg":
                 "kesan": "Abangnya keren",  
                 "pesan":"semangat menjalani semester 5 bang!!!"# 1
             },
+
             {
                 "nama": "Renisha Putri Giani",
                 "nim": "122450079",
@@ -264,6 +266,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya lucu",  
                 "pesan":" Semangat kuliahnya kakak !!!"# 1
             },
+
             {
                 "nama": "Claudhia Angeliani",
                 "nim": "121450124",
@@ -275,6 +278,7 @@ elif menu == "Baleg":
                 "kesan": "Seru bgt ngobrol sama kakak",  
                 "pesan":" Semangat berproses kak!!!"# 1
             },
+
             {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450110",
@@ -286,6 +290,7 @@ elif menu == "Baleg":
                 "kesan": "ucul kakaknya,tinngi lagi",  
                 "pesan":"semangat berhibernasinya kak !!!"# 1
             },
+
             {
                 "nama": "Muhammad fahrul Aditya",
                 "nim": "121450156",
@@ -297,6 +302,7 @@ elif menu == "Baleg":
                 "kesan": "Kakaknya keren banget",  
                 "pesan":"Terus semangat bangg"# 1
             },
+
             {
                 "nama": "Jeremia susanto",
                 "nim": "122450022",
@@ -308,6 +314,7 @@ elif menu == "Baleg":
                 "kesan": "Bang jere ramah bgt orangnya",  
                 "pesan":"semangat kuliahnya bang !!!"# 1
             },
+
             {
                 "nama": "Berliana enda putri",
                 "nim": "122450065",
