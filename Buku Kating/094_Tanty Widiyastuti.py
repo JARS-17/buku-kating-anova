@@ -325,8 +325,8 @@ elif menu == "Baleg":
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1N6NuU-_QzSIw-5v7pAzdFpBOSGe5XbzC",
             "https://drive.google.com/uc?export=view&id=1KbksD7Iq3FqQesHdfyPypfSB9_YS6W-E",
+            "https://drive.google.com/uc?export=view&id=1N6NuU-_QzSIw-5v7pAzdFpBOSGe5XbzC",
         ]
         data_list = [
             {
@@ -988,7 +988,7 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
                 "pesan": "Semangat kuliahnya kaa, jangan lupa belajar tiap hari",
             },
             {
-                "nama": "Batian Heskia Silaban",
+                "nama": "Bastian Heskia Silaban",
                 "nim": "122450130",
                 "umur": "21",
                 "asal": "Batam, Kepulauan Riau",
@@ -1109,7 +1109,7 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
                 "pesan": "Semangat kuliahnya kak, jangan lupa belajar tiap hari",
             },
             {
-                "nama": "Irvam Alfaritzi",
+                "nama": "Irvan Alfaritzi",
                 "nim": "122450093",
                 "umur": "21",
                 "asal": "Sumatera Barat",
