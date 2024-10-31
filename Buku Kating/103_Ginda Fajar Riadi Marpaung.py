@@ -16,7 +16,7 @@ def streamlit_menu():
             "Baleg",
             "Senator",
             "Departemen PSDA",
-            "Departemen MEDCRAF",
+            "Departemen MEDKRAF",
             "Departemen MIKFES",
             "Departemen Eksternal",
             "Departemen Internal",
@@ -483,7 +483,7 @@ elif menu == "Departemen PSDA":
         display_images_with_data(gambar_urls, data_list)
     Psda()
 
-elif menu == "Departemen MEDCRAF":
+elif menu == "Departemen MEDKRAF":
 
     def Medkraf():
         gambar_urls = [
