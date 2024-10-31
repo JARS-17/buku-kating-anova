@@ -1136,17 +1136,19 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def Internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1IuI8XJGQRK1pzryB-EmQwsBKty07kvRm",
+            "https://drive.google.com/uc?export=view&id=1b0pgeTG6jySyZMgiK0so3Fj4EEISzwnb",
+            "https://drive.google.com/uc?export=view&id=1bEM756lWXJgnfn4-Dv1tDqvp7toB3vLs",
+            "https://drive.google.com/uc?export=view&id=1b3Rvth1Uetwpcyhdh9SVFQY9A_Bnleur",
+            "https://drive.google.com/uc?export=view&id=1bTr--yB1Wfyv0O20m5dnt0JHQRvpa0t4",
+            "https://drive.google.com/uc?export=view&id=1b92JwzvwQuVEavH11dv8LqmAuenEbeUA",
+            "https://drive.google.com/uc?export=view&id=1bdKpyuv8-LUwhXvnGe11rF75sNxcDHFg",
+            "https://drive.google.com/uc?export=view&id=1bHPySJB3-Ewl150Ig0mM8z2Ai_FRd8Vy",
+            "https://drive.google.com/uc?export=view&id=1bJkF9eFUlqbSY91u5UGbs3gC0KbVId0G",
+            "https://drive.google.com/uc?export=view&id=1bOImJS3WVoNSMOs7ba3Zbq4Xf0Jr2Sfl",
+            "https://drive.google.com/uc?export=view&id=1beiF_B72iF6Ufi_O72mfeEbu6IOms2KU",
+            "https://drive.google.com/uc?export=view&id=1b2ZVwSG8Cx3G9Pi8s0TtWJcLgn23b_5U",
+            "https://drive.google.com/uc?export=view&id=1bUOYKRuW1pN2FEtKaUII6Wfps9B_L4ra",
         ]
         data_list = [
             {
