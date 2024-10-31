@@ -699,17 +699,25 @@ elif menu == "Departemen MIKFES":
 
     def Mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1iT7w4VzecLKH780gi06s_1tXME24Oefv",
+            "https://drive.google.com/uc?export=view&id=1hvklUjpYRu1L1QmfmAxTTnE1_g8bZxhm",
+            "https://drive.google.com/uc?export=view&id=1hE1uJohpj7v6uNnCff4_YvYCUPFYELfW",
+            "https://drive.google.com/uc?export=view&id=1i2QWx6-EfazB5s2ck1q0pi8fX6Fp_cqQ",
+            "https://drive.google.com/uc?export=view&id=1hM4tpCGs15QbVGYWUluh4TRi5ay4s-hR",
+            "https://drive.google.com/uc?export=view&id=1hkwHV9bAW2cCaGca7ZOwC5H3jdPBjs1t",
+            "https://drive.google.com/uc?export=view&id=1iRAretU-if3SdolQjTC8dRWh1Nx7lW8c",
+            "https://drive.google.com/uc?export=view&id=1hO57SrGK4V7gwpKOLzjyU4r-Zuh6B7o7",
+            "https://drive.google.com/uc?export=view&id=1hXoT5RVPkwLk-sQ_JY1HniV1lbiWVHvb",
+            "https://drive.google.com/uc?export=view&id=1hxcfY-gL9GPx2P0YZC24Z5w4CfwHwTLQ",
+            "https://drive.google.com/uc?export=view&id=1hOMhnVaypPGgZ6NaHZKI3aCKTTK4G-gj",
+            "https://drive.google.com/uc?export=view&id=1hnmZJXZGIhFbzJ_B8yI6D5Ok8MmbVZXA",
+            "https://drive.google.com/uc?export=view&id=1hcpjNXksJNz3PvKfTloOjeYjCBSJYMB6",
+            "https://drive.google.com/uc?export=view&id=1i26rTUGwaCgdtP8764QnyhRcnt6N5gEj",
+            "https://drive.google.com/uc?export=view&id=1i9XmX_5MvG6oMtUpnD2Bawz1ChHm2Ulg",
+            "https://drive.google.com/uc?export=view&id=1iJK1YdbxuSHB1Hsy060xOT98J74WisEM",
+            "https://drive.google.com/uc?export=view&id=1hxtkgrALzvay6F3Q70O5D7vblUii6buR",
+            "https://drive.google.com/uc?export=view&id=1iJax8E04zePFdUnAZN-NAuyLpPrT60Z3",
+            "https://drive.google.com/uc?export=view&id=1i3OP0NpOv2iBa1vq-7UXfE9Svs8FHPIq",
         ] 
         data_list = [
             {
