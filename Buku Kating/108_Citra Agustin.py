@@ -401,6 +401,9 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1V6aKwPPfM1ZtQ_hTIDULwYH3OGx9MRBS",
             "https://drive.google.com/uc?export=view&id=1VAUBWqEhzlvx0ND4Na1Hj_MkXMvzpjT7",
             "https://drive.google.com/uc?export=view&id=1VDN8nQW8e7EYmbtcX597Owk9ZEsq96e9",
+            "https://drive.google.com/uc?export=view&id=1Wwk87Z1Ou65EhV9Akuj1RRxnVUQHNaBJ",
+            "https://drive.google.com/uc?export=view&id=1X6YO1GlhHRoagL0PPQ0c4C8yul2nk63F",
+            "https://drive.google.com/uc?export=view&id=1WsPAxbrQuyzlhxdkMfZ_j0-n6oQ1socC",
         ]
         data_list = [
             {
@@ -680,6 +683,8 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1_DEvY8kyNdjOCtIDIiWSEFNL4t9DqeGD",
             "https://drive.google.com/uc?export=view&id=1_BU4bdElG2HIhQOAntbUkR2HuhpFiDDE",
             "https://drive.google.com/uc?export=view&id=1_8TM-XZyBCMGoCR9wjn2cdzrGb9QAFPk",
+            "https://drive.google.com/uc?export=view&id=1Wng2_anrq0HxI8Uc8H5GoHnK_pemjmnl",
+            "https://drive.google.com/uc?export=view&id=1WbR7mnha13MCEyRR7xrY7OQtfF-gYBIN",
             
         ]
         data_list = [
@@ -1580,6 +1585,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1M6cJtUaN6QgQRUDSnq-6m6n6m45G_WBZ",
             "https://drive.google.com/uc?export=view&id=1LhwvjPUuwNG8hUTJ9QA8bN6bX7jSVx44",
             "https://drive.google.com/uc?export=view&id=1Lg8ucL6d29GxsW4go5zMeVaw_ryeSepv",
+            "https://drive.google.com/uc?export=view&id=1W6yf6U1YvkTHR1toPcSQJLtPpm1iG918",
         ]
         data_list = [
             {
