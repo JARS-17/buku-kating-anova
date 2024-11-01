@@ -1263,17 +1263,6 @@ elif menu == "Departemen Eksternal":
                 "pesan": "Semangat kuliahnya bang",
             },
             {
-                "nama": "Arafi Ramadhan Maulana",
-                "nim": "12245022",
-                "umur": "20",
-                "asal": "Jogja, Depok",
-                "alamat": "Way Huwi",
-                "hobbi": "menghafal al-quran",
-                "sosmed": "@arafiramadhanmaulana",
-                "kesan": "-",
-                "pesan": "-",
-            },
-            {
                 "nama": "Izza Lutfia",
                 "nim": "122450090",
                 "umur": "20",
