@@ -16,7 +16,7 @@ def streamlit_menu():
             "Baleg",
             "Senator",
             "Departemen PSDA",
-            "Departemen MEDCRAF",
+            "Departemen MEDKRAF",
             "Departemen MIKFES",
             "Departemen Eksternal",
             "Departemen Internal",
@@ -354,7 +354,7 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
 
-elif menu == "DEPARTEMEN PSDA":
+elif menu == "Departemen PSDA":
     def Psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=",
@@ -476,7 +476,7 @@ elif menu == "DEPARTEMEN PSDA":
         display_images_with_data(gambar_urls, data_list)
     Psda()
 
-elif menu == "Departemen MedKraf":
+elif menu == "Departemen MEDKRAF":
 
     def Medkraf():
         gambar_urls = [
@@ -699,17 +699,25 @@ elif menu == "Departemen MIKFES":
 
     def Mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1iT7w4VzecLKH780gi06s_1tXME24Oefv",
+            "https://drive.google.com/uc?export=view&id=1hvklUjpYRu1L1QmfmAxTTnE1_g8bZxhm",
+            "https://drive.google.com/uc?export=view&id=1hE1uJohpj7v6uNnCff4_YvYCUPFYELfW",
+            "https://drive.google.com/uc?export=view&id=1i2QWx6-EfazB5s2ck1q0pi8fX6Fp_cqQ",
+            "https://drive.google.com/uc?export=view&id=1hM4tpCGs15QbVGYWUluh4TRi5ay4s-hR",
+            "https://drive.google.com/uc?export=view&id=1hkwHV9bAW2cCaGca7ZOwC5H3jdPBjs1t",
+            "https://drive.google.com/uc?export=view&id=1iRAretU-if3SdolQjTC8dRWh1Nx7lW8c",
+            "https://drive.google.com/uc?export=view&id=1hO57SrGK4V7gwpKOLzjyU4r-Zuh6B7o7",
+            "https://drive.google.com/uc?export=view&id=1hXoT5RVPkwLk-sQ_JY1HniV1lbiWVHvb",
+            "https://drive.google.com/uc?export=view&id=1hxcfY-gL9GPx2P0YZC24Z5w4CfwHwTLQ",
+            "https://drive.google.com/uc?export=view&id=1hOMhnVaypPGgZ6NaHZKI3aCKTTK4G-gj",
+            "https://drive.google.com/uc?export=view&id=1hnmZJXZGIhFbzJ_B8yI6D5Ok8MmbVZXA",
+            "https://drive.google.com/uc?export=view&id=1hcpjNXksJNz3PvKfTloOjeYjCBSJYMB6",
+            "https://drive.google.com/uc?export=view&id=1i26rTUGwaCgdtP8764QnyhRcnt6N5gEj",
+            "https://drive.google.com/uc?export=view&id=1i9XmX_5MvG6oMtUpnD2Bawz1ChHm2Ulg",
+            "https://drive.google.com/uc?export=view&id=1iJK1YdbxuSHB1Hsy060xOT98J74WisEM",
+            "https://drive.google.com/uc?export=view&id=1hxtkgrALzvay6F3Q70O5D7vblUii6buR",
+            "https://drive.google.com/uc?export=view&id=1iJax8E04zePFdUnAZN-NAuyLpPrT60Z3",
+            "https://drive.google.com/uc?export=view&id=1i3OP0NpOv2iBa1vq-7UXfE9Svs8FHPIq",
         ] 
         data_list = [
             {
@@ -925,20 +933,25 @@ elif menu == "Departemen MIKFES":
         display_images_with_data(gambar_urls, data_list)
     Mikfes()
 
-elif menu == "DEPARTEMEN EKSTERNAL ":
+elif menu == "Departemen Eksternal":
     def Eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=s",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1XT4J7ES0Qe9tZfamfDPAT9cRzEAxVuK4",
+            "https://drive.google.com/uc?export=view&id=1Y6HKTMrQemYdOMrURu0GZ1dbv85KtecZ",
+            "https://drive.google.com/uc?export=view&id=1Y4RXsw3qsVk7S2-CdDZ7WUCbjrM8qz2b",
+            "https://drive.google.com/uc?export=view&id=1XQfznit1sgxjJ2UfB7HRAeH05SGIe9t5",
+            "https://drive.google.com/uc?export=view&id=1XLRNx_EMSbl6huXFAmrFIKxR94iPBY4f",
+            "https://drive.google.com/uc?export=view&id=1XNhJydns8jwoZ97kjPorfo7DL7KjwhM6",
+            "https://drive.google.com/uc?export=view&id=1XUqppAFQljMv5U8DzYz7nxaafiGJ4qcD",
+            "https://drive.google.com/uc?export=view&id=1Xc1fpc-VzwE2oAIsm3Tb6ZK5umblIBFN",
+            "https://drive.google.com/uc?export=view&id=1XhHLxjKfCYw7MJSrZBTXPCanB5POcued",
+            "https://drive.google.com/uc?export=view&id=1Y1XL_LJeOqhGLZtL0gdrv5eT3MnLfPJK",
+            "https://drive.google.com/uc?export=view&id=1XyH5SwHftbEypxsVp4LhpXXVFamfAGkQ",
+            "https://drive.google.com/uc?export=view&id=1XXBmidi8Fg1DI2s-732hAMWWUqFSqrXu",
+            "https://drive.google.com/uc?export=view&id=1Y4Sh3DzWSZ-wMaWoqTTsOKPncWGAviz9",
+            "https://drive.google.com/uc?export=view&id=1XtvXHZQM4npc6B4r62PKGQeWzUYMQL-o",
+            "https://drive.google.com/uc?export=view&id=1XccHH55bKm14xGCefcj1eGssWpvWmfRS",
+            "https://drive.google.com/uc?export=view&id=1Xx_PeGIUpIm0FgbCL04WBFnMpVx1f4t8",
         ]
         data_list = [
             {
@@ -1120,7 +1133,7 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
         ]
         display_images_with_data(gambar_urls, data_list)
     Eksternal()
-elif menu == "DEPARTEMEN INTERNAL ":
+elif menu == "Departemen Internal":
     def Internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=",
@@ -1282,7 +1295,7 @@ elif menu == "DEPARTEMEN INTERNAL ":
         ]
         display_images_with_data(gambar_urls, data_list)
     Internal()
-elif menu == "DEPARTEMEN SSD ":
+elif menu == "Departemen SSD":
     def Ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1",

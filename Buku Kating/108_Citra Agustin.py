@@ -16,7 +16,7 @@ def streamlit_menu():
             "Baleg",
             "Senator",
             "Departemen PSDA",
-            "Departemen MEDCRAF",
+            "Departemen MEDKRAF",
             "Departemen MIKFES",
             "Departemen Eksternal",
             "Departemen Internal",
@@ -339,7 +339,7 @@ elif menu == "Baleg":
                 "sosmed": "@berlyyanda",
                 "kesan": "Kakanya kereeen banget",
                 "pesan": "semangat kuliahnya kak, sukses terus kak", 
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     Baleg()
@@ -378,7 +378,7 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
 
-elif menu == "DEPARTEMEN PSDA":
+elif menu == "Departemen PSDA":
     def Psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1UYFWnP1ICcljyvVjBsx2903cvKTmMJVj",
@@ -660,7 +660,7 @@ elif menu == "DEPARTEMEN PSDA":
         display_images_with_data(gambar_urls, data_list)
     Psda()
 
-elif menu == "Departemen MedKraf":
+elif menu == "Departemen MEDKRAF":
 
     def Medkraf():
         gambar_urls = [
@@ -1119,14 +1119,15 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@randaandriana_",
                 "kesan": "baik banget bang randa dan kereeen",
                 "pesan": "keren terus bang",
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     Mikfes()
 
-elif menu == "DEPARTEMEN EKSTERNAL ":
+elif menu == "Departemen Eksternal":
     def Eksternal():
         gambar_urls = [
+
             "https://drive.google.com/uc?export=view&id=1M900_d6CrEDiR08zolwG6dBaQQu9l393",
             "https://drive.google.com/uc?export=view&id=1MAQtEtuKbyb18uMcs0L2JvqOv_psBbxp",
             "https://drive.google.com/uc?export=view&id=1MPSNH28kQUtABflsnZuR_XzHGnVtZMbF",
@@ -1142,8 +1143,8 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
             "https://drive.google.com/uc?export=view&id=1MmnQqAWIMP3eWTgBKA31wVkqhjAz4wPN",
             "https://drive.google.com/uc?export=view&id=1MdPbX-YYgrTDlX9VOAbC2zfteiGZ3cgC",
             "https://drive.google.com/uc?export=view&id=1MfshVAKeVsQtyMBmWJ9Edy-hTWYiRN3j",
-            "https://drive.google.com/uc?export=view&id=1MZuCkjsocf6brE2E5eiuAcdbh-KRXqE8",
-         
+            "https://drive.google.com/uc?export=view&id=1MZuCkjsocf6brE2E5eiuAcdbh-KRXqE8",         
+
         ]
         data_list = [
             {
@@ -1154,8 +1155,9 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
                 "alamat": "Jatimulyo",
                 "hobbi": "Ngisi Bensin",
                 "sosmed": "@yogyyyyyyy",
+
                 "kesan": "Abangnya keren banget dan baiiik",
-                "pesan": "keren terus ya bang, sukses selalu dan semangatt", 
+                "pesan": "keren terus ya bang, sukses selalu dan semangatt",  
             },
             {
                 "nama": "Ramadhita Asifa Hendri",
@@ -1279,6 +1281,50 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
                 "pesan": "Semangat kuliahnya bang",
             },
             {
+                "nama": "Arafi Ramadhan Maulana",
+                "nim": "12245022",
+                "umur": "20",
+                "asal": "Jogja, Depok",
+                "alamat": "Way Huwi",
+                "hobbi": "menghafal al-quran",
+                "sosmed": "@arafiramadhanmaulana",
+                "kesan": "-",
+                "pesan": "-",
+            },
+            {
+                "nama": "Asa Do'a Uyi",
+                "nim": "122450005",
+                "umur": "20",
+                "asal": "Muara",
+                "alamat": "Korpri",
+                "hobbi": "cuci baju",
+                "sosmed": "@u_yippy",
+                "kesan": "-",
+                "pesan": "-",
+            },
+            {
+                "nama": "Chalifia Wananda",
+                "nim": "122450076",
+                "umur": "20",
+                "asal": "Padang",
+                "alamat": "sukarame",
+                "hobbi": "Quality Time",
+                "sosmed": "@chipawww",
+                "kesan": "-",
+                "pesan": "-",
+            },
+            {
+                "nama": "Irvan Alfaritzi",
+                "nim": "122450093",
+                "umur": "21",
+                "asal": "Sumatera Barat",
+                "alamat": "Jakarta",
+                "hobbi": "Nonton Youtube dan main ML",
+                "sosmed": "@Alfaritziirfan",
+                "kesan": "-",
+                "pesan": "-",
+            },
+            {
                 "nama": "Izza Lutfia",
                 "nim": "122450090",
                 "umur": "20",
@@ -1321,11 +1367,11 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
                 "sosmed": "@tria_y062",
                 "kesan": "kakaknya manis banget",
                 "pesan": "Semangat kuliahnya kak, sukses terus",
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     Eksternal()
-elif menu == "DEPARTEMEN INTERNAL ":
+elif menu == "Departemen Internal":
     def Internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=10RuXmtPkrE1FvGbnlh5L30_1_jYUk6iP",
@@ -1341,9 +1387,19 @@ elif menu == "DEPARTEMEN INTERNAL ":
             "https://drive.google.com/uc?export=view&id=106KJ67t2l_78EU3YJA_MMAzKRq2V0bXV",
             "https://drive.google.com/uc?export=view&id=10-aw9ZfRkJz-Rs0TDanhhz-wvwYt3BCX",
             "https://drive.google.com/uc?export=view&id=10aV4JweipKjEs_nR7Xz3AytN300YQzEs",
-         
         ]
         data_list = [
+             {
+                "nama": "Dimas rizky ramadhani",
+                "nim": "121450027",
+                "umur": "20",
+                "asal": "Pamulang",
+                "alamat": "Way kandis",
+                "hobbi": "Manjat tower sutet",
+                "sosmed": "@dimzrky",
+                "kesan": "-",
+                "pesan": "-", 
+            },
             {
                 "nama": "Dimas rizky ramadhani",
                 "nim": "121450027",
@@ -1376,6 +1432,28 @@ elif menu == "DEPARTEMEN INTERNAL ":
                 "sosmed": "@akbar_resdika",
                 "kesan": "Kereeen banget dan baik",
                 "pesan": "Sukses terus bang",
+            },
+            {
+                "nama": "Catherine firdhasari maulina sinaga",
+                "nim": "121450072",
+                "umur": "20",
+                "asal": "Sumatera Utara",
+                "alamat": "Airan",
+                "hobbi": "Baca novel",
+                "sosmed": "@chatherine.sinaga",
+                "kesan": "-",
+                "pesan": "-",
+            },    
+            {
+                "nama": "M. Akbar resdika",
+                "nim": "121450066",
+                "umur": "20",
+                "asal": "Lampung Barat",
+                "alamat": "Labuhan dalam",
+                "hobbi": "Memelihara dino",
+                "sosmed": "@akbar_resdika",
+                "kesan": "-",
+                "pesan": "-",
             },
             {
                 "nama": "Rani puspita sari",
@@ -1486,11 +1564,11 @@ elif menu == "DEPARTEMEN INTERNAL ":
                 "sosmed": "@josuapanggabean16_",
                 "kesan": "Abangnya baik banget dan soft spoken",
                 "pesan": "semangat kuliahnya bang, sukses terus",
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     Internal()
-elif menu == "DEPARTEMEN SSD ":
+elif menu == "Departemen SSD":
     def Ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1LiOYscAZ8RC7s88Y82ZMa1M7Yxqq4EqJ",
@@ -1502,7 +1580,6 @@ elif menu == "DEPARTEMEN SSD ":
             "https://drive.google.com/uc?export=view&id=1M6cJtUaN6QgQRUDSnq-6m6n6m45G_WBZ",
             "https://drive.google.com/uc?export=view&id=1LhwvjPUuwNG8hUTJ9QA8bN6bX7jSVx44",
             "https://drive.google.com/uc?export=view&id=1Lg8ucL6d29GxsW4go5zMeVaw_ryeSepv",
-         
         ]
         data_list = [
             {
