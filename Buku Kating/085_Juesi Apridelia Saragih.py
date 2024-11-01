@@ -478,7 +478,6 @@ elif menu == "Departemen PSDA":
     Psda()
 
 elif menu == "Departemen MEDKRAF":
-
     def Medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1apZ04jsQ7UCwAmHUU66ik0O2dbZZNHtF",
