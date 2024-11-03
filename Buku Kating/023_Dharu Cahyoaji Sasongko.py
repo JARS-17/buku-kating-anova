@@ -127,7 +127,7 @@ if menu == "Kesekjenan":
                 "hobbi": "Main Gitar",
                 "sosmed": "@pandrainsani27",
                 "kesan": "Keren dan teladan",  
-                "pesan":"Jangan lupa istirahat bang!"# 1
+                "pesan":"Jangan lupa istirahat bang!"
             },
             {   
 
@@ -253,7 +253,7 @@ elif menu == "Baleg":
                 "hobbi": "Baca buku",
                 "sosmed": "@fer_yulius",
                 "kesan": "Ngajar alpronya asik!",  
-                "pesan":"Semoga makin sukses!"# 1
+                "pesan":"Semoga semakin sukses terus bang!"
             },
              {
                 "nama": "Renisha Putri Giani",
@@ -285,8 +285,8 @@ elif menu == "Baleg":
                 "alamat": "Korpri",
                 "hobbi": "Tidur yang lama, main kucing",
                 "sosmed": "@myrrinn",
-                "kesan": "Penuh energi positif!",  
-                "pesan":"Makasih banyak, bang!"# 1
+                "kesan": "orangnya easy going",  
+                "pesan":"Makasih banyak ilmunya bang!"
             },
             {
                "nama": "Muhammad fahrul Aditya",
@@ -319,7 +319,7 @@ elif menu == "Baleg":
                 "hobbi": "Duduk di tepi pantai sambil galauin bintang ynag tinggal satu",
                 "sosmed": "@berlyyanda",
                 "kesan": "seru ga ngebosenin",  
-                "pesan":"Semoga makin sukses!"# 1
+                "pesan":"Semoga makin sukses!"
             },
 
         ]
@@ -493,8 +493,8 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1GCSbsiHdEcfGd8b3wDBq0HQOti_GTxjm",
             "https://drive.google.com/uc?export=view&id=1GanTtXCKwhlo1PLN18BTRd84_lV4UX3J",
          
-         
-         
+
+
         ]
         data_list = [
             {
@@ -506,7 +506,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton",
                 "sosmed": "",
                 "kesan": "penuh semangat",
-                "pesan": "terimakasih materinya bangg",
+                "pesan": "semoga apa yang diimpikan tercapai bangg",
             },
             {
                 "nama": "Elok Fiola",
@@ -539,7 +539,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Lagi Nyari",
                 "sosmed": " @dino_kiper",
                 "kesan": "vibes orang pinter",
-                "pesan": "semangat terus bang", 
+                "pesan": "semangat untuk TAnya", 
             },
             {
                 "nama": "Muhammad Arsal Ranjana Putra",
@@ -682,7 +682,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
                 "kesan": "kreatif dalam menjelaskan.",
-                "pesan": "sukses terus kakk", 
+                "pesan": "makasi materi tentang Rnya kakk", 
             },
              {
                 "nama": "Priska Silvia Ferantiana",
@@ -709,6 +709,13 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            
         ] 
         data_list = [
             {
