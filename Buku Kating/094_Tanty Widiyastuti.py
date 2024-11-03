@@ -1341,6 +1341,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1Afqe8Or4OmZ-mEdki19_iB5D76noEAtU",
             "https://drive.google.com/uc?export=view&id=1AoCGRNeDA4mX9-w969ewutcVxvxBZtzs",
             "https://drive.google.com/uc?export=view&id=1AoP6P3nZA4esHEirhiSRlaSXe6K4p0hE",
+            "https://drive.google.com/uc?export=view&id=1AovOXILpD6XNjvBJAeQ6Vt9m9yil2Ro3",
 
         ]
         data_list = [
@@ -1423,7 +1424,7 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Dhafin Razaka Luthfia",
-                "nim": "122450133",
+                "nim": "122450026",
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Jalan nangka 1",
@@ -1432,6 +1433,17 @@ elif menu == "Departemen SSD":
                 "kesan": "baik sekaliii",
                 "pesan": "semangat selalu bang",
             },
+            {
+                "nama": "Elia Meylani Simanjuntak",
+                "nim": "122450133",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Main Alat Musik",
+                "sosmed": "@meylanielia",
+                "kesan": "baik sekaliii",
+                "pesan": "Kakak hebat! Semoga selalu sukses di masa depan."
+,
         ]
         display_images_with_data(gambar_urls, data_list)
     Ssd()
