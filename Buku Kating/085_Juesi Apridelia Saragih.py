@@ -851,7 +851,7 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@prskslv",
                 "kesan": "manis banget",
                 "pesan": "Kalau butuh saran novel calling aja ya kak, tetap semangat kak!", 
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     Medkraf()
