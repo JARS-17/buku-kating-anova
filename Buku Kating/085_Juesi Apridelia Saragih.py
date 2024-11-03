@@ -44,7 +44,7 @@ def streamlit_menu():
                 "margin": "0px",
                 "--hover-color": "#eee",
             },
-            "nav-link-selected": {"background-color": "#FEF9D9"},
+            "nav-link-selected": {"background-color": "#3FBAD8"},
         },
     )
     return selected
@@ -94,6 +94,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write("  ")
     st.write("Semua gambar telah dimuat!")
 menu = streamlit_menu()
+
 
 # BAGIAN SINI YANG HANYA BOLEH DIUABAH
 if menu == "Kesekjenan":
