@@ -939,17 +939,23 @@ elif menu == "Departemen Eksternal":
     def Eksternal():
         gambar_urls = [
 
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1guLMBUcjFlpRQ5c57flJqi5YjAeRx67z",
+            "https://drive.google.com/uc?export=view&id=1goKHPUDKVyUAxPZ06hohNcid7x0mxMvG",
+            "https://drive.google.com/uc?export=view&id=1hUOfa-mAWrpQduWSetnhaK2cLIg-5zsf",
+            "https://drive.google.com/uc?export=view&id=1gz1zMliFShHQNga62X-lisHBgfmnCFIa",
+            "https://drive.google.com/uc?export=view&id=1h7b_8B02DHUoQi9Hxj208B4UdZl0VgWy",
+            "https://drive.google.com/uc?export=view&id=1h9MHd5HdSAjevSNGJHydElIwMDRLqbkm",
+            "https://drive.google.com/uc?export=view&id=1hXJ7bQLn_AqSRBlnM2jNA1h0mVDhH_3U",
+            "https://drive.google.com/uc?export=view&id=1gk5z_PipXUpCS24NHdBSFBzTp_waU-3v",
+            "https://drive.google.com/uc?export=view&id=1gZmdaL_0YPU4EPJZsN8C_xFejsWpSbmy",
+            "https://drive.google.com/uc?export=view&id=1g6o0sQEXVLa50ssll2HVyinIZRWH8a6u",
+            "https://drive.google.com/uc?export=view&id=1g7szAbwHTkZsn7hclrYwSM1tktmIvg_9",
+            "https://drive.google.com/uc?export=view&id=1gkvg3tEJLQz0WXNlpY4A0pObLgi_qbfe",
+            "https://drive.google.com/uc?export=view&id=1gjTbxn5vD8fCOAiSNQXSdD5EolXKlTh4",
+            "https://drive.google.com/uc?export=view&id=1gGIKLOUu43MqRzOhrlHLN1qw_RN7msZu",
+            "https://drive.google.com/uc?export=view&id=1gfdjZHwHt0DlHE8cd_BHbxiD6VPWc8Fw",
+            "https://drive.google.com/uc?export=view&id=1g8QyUHprx91NesD_4HnDhEJnO1HEUMhg",
+
         ]
         data_list = [
             {
