@@ -657,12 +657,12 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=19rjxUWSJ2axNdsqtV31CWXklxywMjE4z",
             "https://drive.google.com/uc?export=view&id=10dCeD0uwPvEPPufBHHgNBJqlQYYM86zQ",
-            "https://drive.google.com/uc?export=view&id=1_7TRH8ms7udsG53k11GXa4Yj22YJohK-",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1_lOfEzHxPgf_uxgC8kVMwsdFVvlQseTL",
             "https://drive.google.com/uc?export=view&id=1sSzQ7SVbTt3Cgwg_7Fls9GUAMqjaAQq5",
             "https://drive.google.com/uc?export=view&id=1NyYl_9Ro-TZRyJdOIbBNxvpdFqlUKuzJ",
-            "https://drive.google.com/uc?export=view&id=1_7TRH8ms7udsG53k11GXa4Yj22YJohK-",
-            "https://drive.google.com/uc?export=view&id=1_7TRH8ms7udsG53k11GXa4Yj22YJohK-",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1k5tYBp-fdMYsRkBLLS953-YH_KwH7cOl",
             "https://drive.google.com/uc?export=view&id=1F36DrAWM1FBTd1mU_yl2tOyviLiROg8C",
             "https://drive.google.com/uc?export=view&id=1_ntx6IN-O4XkoPFlhlOnj4-B8U9jTYXB",
@@ -882,8 +882,8 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Perumahan Pemda",
                 "hobbi": "Baca",
                 "sosmed": "@dwiratn_",
-                "kesan": "manis banget",
-                "pesan": "Kalau butuh saran novel calling aja ya kak, tetap semangat kak!", 
+                "kesan": "lucu banget",
+                "pesan": "Kalau butuh saran bacaan chat aja ya kak, tetap semangat kak!", 
             },
         ]
 
