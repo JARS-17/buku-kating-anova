@@ -323,7 +323,7 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def Psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1e-c-YqDr7NyZayF9FHtDjPHLTSc0mUrw/",
+            "https://drive.google.com/uc?export=view&id=1e-c-YqDr7NyZayF9FHtDjPHLTSc0mUrw",
             "https://drive.google.com/uc?export=view&id=1lekkw2xEiTai9OrSuRo-UW6642K3t0E4",
             "https://drive.google.com/uc?export=view&id=1VrjezG_TCl4sYFxZeph57YfWrZToGntb",
             "https://drive.google.com/uc?export=view&id=1ZPt26s51dG4TyFeh70l8O12zx3thuJDw",
@@ -342,7 +342,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1HAYtiR-mD2SjUJ9W3uLGzHGjY3yE4-CA",
             "https://drive.google.com/uc?export=view&id=19P3wEaJQCwemUJmGlMdXX4BQ4Ndd3LLL",
             "https://drive.google.com/uc?export=view&id=1wB7aouNewuo23OAo3-xPXiFY9yMhF1tc",
-            "https://drive.google.com/uc?export=view&id=4jl61lf9uMBUZH7Asf0XB01vg2mk39RN",
+            "https://drive.google.com/uc?export=view&id=14jl61lf9uMBUZH7Asf0XB01vg2mk39RN",
         ]
 
         data_list = [
