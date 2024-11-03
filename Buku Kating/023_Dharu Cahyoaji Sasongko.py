@@ -702,7 +702,8 @@ elif menu == "Departemen MIKFES":
     def Mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1lWdu9PD3xm8spfuTto6x1yOaskkY1tLH",
-            "https://drive.google.com/uc?export=view&id=12svBq_2H8kuFFoTRMT8evNpudd8WJlx4",
+            "https://drive.google.com/uc?export=view&id=1436EDcyIy1neMMGiS2i_CwSVcOb2c4b5",
+            "https://drive.google.com/uc?export=view&id=14eRGQSZOsw8z3h_3f9vLJs2c7g7OsL8v",
             "https://drive.google.com/uc?export=view&id=14eRGQSZOsw8z3h_3f9vLJs2c7g7OsL8v",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=10JKTN1r3e4h81eYwukQU3mbrA9VuvFH0",
