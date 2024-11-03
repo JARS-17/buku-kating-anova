@@ -654,24 +654,25 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MEDKRAF":
     def Medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1apZ04jsQ7UCwAmHUU66ik0O2dbZZNHtF",
-            "https://drive.google.com/uc?export=view&id=1DQuhLP3MKjMdqySVUF-65LkRAqui-ZfT",
+            "https://drive.google.com/uc?export=view&id=1Jk6Tr_Y6vMUrJEG0ZQRxKS9JiDGFqRQQ",
+            "https://drive.google.com/uc?export=view&id=1TcELRjsi0eiCtICOyUz08jJ0wKy4QcXz",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1Be5ANFBBHQRGXl3COeI6k347rFY-YTyR",
-            "https://drive.google.com/uc?export=view&id=11hv8-gIZcCtAL09yhzUOKr5tedmtB81P",
-            "https://drive.google.com/uc?export=view&id=1GfNEEHQ-b5kKyYpkJsdxAbc-RiuXwKCO",
+            "https://drive.google.com/uc?export=view&id=1DQhze6bGQdFsMhVE-zj6NuN0Hx-U5HfD",
+            "https://drive.google.com/uc?export=view&id=1F90C8cMq-_ZE5RMyP46rTTEmr2bkXUG2",
+            "https://drive.google.com/uc?export=view&id=1iZ06fRgOvlj_xipoulTcL3kNGqTzYw_t",
             "https://drive.google.com/uc?export=view&id=1ZBkADgRIxI4soARbsgwb1IrBomhGTrL_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1hM4doNiao2hILS_E-if6UTXgA6giCyGy",
-            "https://drive.google.com/uc?export=view&id=1GxB6nJswpd6pttk-KTuwMo98nfQxuc_G",
-            "https://drive.google.com/uc?export=view&id=1ZFwGPDmsfwMVUWzAC0GshGW65HQ9JVUy",
-            "https://drive.google.com/uc?export=view&id=1moGUaw6I_ucyVs5dsHvJZK1fTgdDDpcZ",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=121fh4NH6-uCEc3XMnmrWDZNA_lJ4mbRZ",
-            "https://drive.google.com/uc?export=view&id=1OeeqHmj09dyoNzLUGVxEhSX6np63uOXb",
-            "https://drive.google.com/uc?export=view&id=1jietI7LEPvfz1TLO_kLp6ZM7R9xWb0aH",
-            "https://drive.google.com/uc?export=view&id=1rT2aQHNU5IszP7Hqy51NtbGsB9wxC9rH",
-            "https://drive.google.com/uc?export=view&id=1NLjuf1xNW3XcJ9cpMJtG9p4TkUpcTXS1",
+            "https://drive.google.com/uc?export=view&id=1EYN5ma7lRZDjtTaodf0DyeJ2NOczgnas",
+            "https://drive.google.com/uc?export=view&id=1n6InSaakqJXbQjzeVYHe_q9rTNx-IGLq",
+            "https://drive.google.com/uc?export=view&id=1VAUK5nmx_M9Wt1q3oNMDsYnR1R-Bortc",
+            "https://drive.google.com/uc?export=view&id=1_cZoROqNNyrH2LZLDTLD-OqfxSCGuHs6",
+            "https://drive.google.com/uc?export=view&id=1bC17jetBxFzD06eedq02JWq7pkxT6rhw",
+            "https://drive.google.com/uc?export=view&id=1ZmOpqPmBk7yo88eW6r2PZ20XClgBKuNR",
+            "https://drive.google.com/uc?export=view&id=1rDql1dvn5vLQ3ci4uJpyCnMadI5sB8bT",
+            "https://drive.google.com/uc?export=view&id=1rq_UQsjZGJqbl61_FOHgpoJtJLKlI0Xq",
+            "https://drive.google.com/uc?export=view&id=1I_-NCXUuZHTG0sdZL-Bq5bhwGeon2Tvm",
+            "https://drive.google.com/uc?export=view&id=10-2En5sT6wWszQGnEAdtvkWC6GDCzNFq",
+            "https://drive.google.com/uc?export=view&id=1j3WR3MdQgJFM1O6dMIWqoSPgdjBThJBX",
         ]
         data_list = [
             {
@@ -871,7 +872,18 @@ elif menu == "Departemen MEDKRAF":
                 "sosmed": "@prskslv",
                 "kesan": "manis banget",
                 "pesan": "Kalau butuh saran novel calling aja ya kak, tetap semangat kak!", 
-            }
+            },
+            {
+                "nama": "Dwi Ratna Anggraeni",
+                "nim": "122450008",
+                "umur": "20",
+                "asal": "Jambi",
+                "alamat": "Perumahan Pemda",
+                "hobbi": "Baca",
+                "sosmed": "@dwiratn_",
+                "kesan": "manis banget",
+                "pesan": "Kalau butuh saran novel calling aja ya kak, tetap semangat kak!", 
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     Medkraf()
