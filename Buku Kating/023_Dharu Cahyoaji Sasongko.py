@@ -1303,17 +1303,15 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def Ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1ANHY6hLMUPfUcfJ1M6oydG2dF1I7jjRy",
+            "https://drive.google.com/uc?export=view&id=1AGWcIDjrlQ_fW5_RRAs9NwMbUdm2dwEM",
+            "https://drive.google.com/uc?export=view&id=1AGDZrjdcFGBlfiOcW4LSE4iP3Mr_kLt8",
+            "https://drive.google.com/uc?export=view&id=1AW-033s43hiSZEUM_vO62XAJs_NV9n4O",
+            "https://drive.google.com/uc?export=view&id=1AMlm2tZjlIWX10vh3SmmM5KUUlJ0a8lj",
+            "https://drive.google.com/uc?export=view&id=1ARMqKYVc2PUOi2yvkV3WJde4y1Rs2fO4",
+            "https://drive.google.com/uc?export=view&id=1AHjLITb2PgNd5W8H-tnjIKqZLndtoIyJ",
+            "https://drive.google.com/uc?export=view&id=1AMASVu3dK62KxiVmir0f9qqS2xgMKBR_",
+            "https://drive.google.com/uc?export=view&id=1AMYKKb5VRor8DIuGu18jRRg9xzMsxQpc",
         ]
         data_list = [
             {
@@ -1402,6 +1400,17 @@ elif menu == "Departemen SSD":
                 "alamat": "Jalan nangka 1",
                 "hobbi": "Olahraga",
                 "sosmed": "@dhafinrzqri3",
+                "kesan": "-",
+                "pesan": "-",
+            },
+            {
+                "nama": "Elia meylani Simanjuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Main Batminton",
+                "sosmed": "@meylanielia",
                 "kesan": "-",
                 "pesan": "-",
             },
