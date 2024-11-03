@@ -493,8 +493,6 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1GCSbsiHdEcfGd8b3wDBq0HQOti_GTxjm",
             "https://drive.google.com/uc?export=view&id=1GanTtXCKwhlo1PLN18BTRd84_lV4UX3J",
          
-
-
         ]
         data_list = [
             {
@@ -715,7 +713,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            
+
         ] 
         data_list = [
             {
