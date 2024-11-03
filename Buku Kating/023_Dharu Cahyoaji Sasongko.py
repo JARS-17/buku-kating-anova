@@ -705,7 +705,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1436EDcyIy1neMMGiS2i_CwSVcOb2c4b5",
             "https://drive.google.com/uc?export=view&id=12svBq_2H8kuFFoTRMT8evNpudd8WJlx4",
             "https://drive.google.com/uc?export=view&id=14eRGQSZOsw8z3h_3f9vLJs2c7g7OsL8v",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=10JKTN1r3e4h81eYwukQU3mbrA9VuvFH0",
             "https://drive.google.com/uc?export=view&id=1mLBLjztG03vFGRnLO0VGxFJs5mzwz2Rx",
             "https://drive.google.com/uc?export=view&id=1f2f1CZA4Ui8oEsgn1pb05yDNyb8vDsGu",
