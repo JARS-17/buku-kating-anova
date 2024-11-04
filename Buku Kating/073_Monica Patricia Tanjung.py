@@ -204,7 +204,7 @@ elif menu == "Baleg":
                 "hobbi": "Tanya sama GPT",
                 "sosmed": "@trimurniaa",
                 "kesan": "Kakaknya humble banget, cantik, baik, adaptif dan inspiratif",
-                "pesan": "semangat kuliahnya kakak",
+                "pesan": "semangat kuliahnya kakak, terimakasih sudah menginspirasi",
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -258,8 +258,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobbi": "Nyari Sinyal di Gedung F",
                 "sosmed": " @_.dheamelia",
-                "kesan": "Kakaknya kelihatan aktif organisasi bangettt",
-                "pesan": "Semangat menjalani hari kak", 
+                "kesan": "Kak Dhea lucu, imut, cantik",
+                "pesan": "Semangat menjalani hari kak ", 
             },
             {
                 "nama": "Muhammad Fachrul Aditya",
@@ -269,8 +269,8 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobbi": "Sholat Malam",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Abangnya keliatan soleh ya rajin sholat malam",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Abangnya keren banget, inspiratif",
+                "pesan": "semangat kuliahnya kak, terimakasih sudah menginspirasi", 
             },
             {
                 "nama": " Berliana Enda Putri",
@@ -280,8 +280,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobbi": "Baca Buku, Ngoding, Ibadah",
                 "sosmed": "@berlyyanda",
-                "kesan": "Abangnya keliatan soleh dan rajin sholat ",
-                "pesan": "semangat kuliahnya kak, tetap pertahankan rajin sholat malamnya", 
+                "kesan": "Kakaknya baik,cantik ",
+                "pesan": "semangat kuliahnya kak,semangat ngoding", 
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -622,7 +622,6 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=12k_IyYSjRVM9G_plWWHO3cJ2M5rukv62",
             "https://drive.google.com/uc?export=view&id=1o1uIt-_QwyjeDGFJoeYZiO_In-0ZZlRL",
             "https://drive.google.com/uc?export=view&id=1r7M6WEgpCoxfXguXCQiVnUDramTjXYsT",
-
         ]
         data_list = [
             {
@@ -1124,7 +1123,7 @@ elif menu == "Departemen Eksternal":
             },
             {
                 "nama": "Tobias David Monogari",
-                "nim": "121450081",
+                "nim": "121450091",
                 "umur": "20",
                 "asal": "Jakarta Barat",
                 "alamat": "Pemda",
