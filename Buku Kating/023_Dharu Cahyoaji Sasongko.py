@@ -191,11 +191,11 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1WfZZYzJCWBKmR2j0ZeNYWV2Cv7Rm0Urj",
             "https://drive.google.com/uc?export=view&id=1jOKb6GNNiBINL630Ez1_Sm4KCZ4cGygj",
             "https://drive.google.com/uc?export=view&id=1Lvwy1euenQlOBd5cmpi2EiDEbHLVeZIL",
+            "https://drive.google.com/uc?export=view&id=1uj9aGRXq2PvR7x5wgUvfCesc1nm50JMr",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1uj-IYjN0eGDigoYiirJVpL3ibxrKP7V2",
             "https://drive.google.com/uc?export=view&id=1D41SHxei-b0WfC1iibFLdf0WDuc9RCwD",
-            "https://drive.google.com/uc?export=view&id=1uj9aGRXq2PvR7x5wgUvfCesc1nm50JMr",
             "https://drive.google.com/uc?export=view&id=1HuSDiShE4HKvQQJDw7GL07PaLtqDre4z",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1AbtZGCJznjghZTF5WDBdJpDUHY0llCvN",
             "https://drive.google.com/uc?export=view&id=1eM9b3Dcyz-KFUHvWABw90ITgTvbuZhQu",
         ]
@@ -244,6 +244,28 @@ elif menu == "Baleg":
                 "kesan": "lucuu",  
                 "pesan":"semangat kuliahnya kak"# 1
             },
+            {
+                "nama": "Claudhia Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Tidur",
+                "sosmed": "@dylebee",
+                "kesan": "baik banget",  
+                "pesan":"Tetap rendah hati, Kak!"# 1
+            },
+            {
+               "nama": "Muhammad fahrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"Surakarta",
+                "alamat": "Sukarame",
+                "hobbi": "Melukis, olahraga",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "kece abis",  
+                "pesan":"Semangat buat semua impiannya bang!"# 1
+            },
              {
                 "nama": "Feriyadi Yulius",
                 "nim": "122450087",
@@ -266,20 +288,10 @@ elif menu == "Baleg":
                 "kesan": "Banyak ilmu dari kakak.",  
                 "pesan":"Jaga kesehatan, ya kak!"# 1
             },
-            {
-                "nama": "Claudhia Angeliani",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Lampung Timur",
-                "alamat": "Lampung Timur",
-                "hobbi": "Tidur",
-                "sosmed": "@dylebee",
-                "kesan": "baik banget",  
-                "pesan":"Tetap rendah hati, Kak!"# 1
-            },
-            {
+
+             {
                 "nama": "Mirzan Yusuf Rabbani",
-                "nim": "122450110",
+                "nim": "122450118",
                 "umur": "20",
                 "asal":"Jakarta",
                 "alamat": "Korpri",
@@ -288,17 +300,7 @@ elif menu == "Baleg":
                 "kesan": "orangnya easy going",  
                 "pesan":"Makasih banyak ilmunya bang!"
             },
-            {
-               "nama": "Muhammad fahrul Aditya",
-                "nim": "121450156",
-                "umur": "22",
-                "asal":"Surakarta",
-                "alamat": "Sukarame",
-                "hobbi": "Melukis, olahraga",
-                "sosmed": "@fhrul.pdf",
-                "kesan": "kece abis",  
-                "pesan":"Semangat buat semua impiannya bang!"# 1
-            },
+
             {
                 "nama": "Jeremia Susanto",
                 "nim": "122450022",
