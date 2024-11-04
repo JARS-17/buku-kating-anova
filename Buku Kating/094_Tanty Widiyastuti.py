@@ -597,7 +597,7 @@ elif menu == "Departemen MEDCRAF":
 
     def Medcraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=16Bg1DdSd779c3P7hgZ7zV13V1nYwMbY",
+            "https://drive.google.com/uc?export=view&id=16Bg1DdSd779c3P7hgZ7zV13V1nYwMbYT",
             "https://drive.google.com/uc?export=view&id=16-PdBYb1BRQye9b5D-AgBYleegjv2D3r",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=15sTnRaofi-Bi5qwVNpCd4-qrKcVBSfqR",
