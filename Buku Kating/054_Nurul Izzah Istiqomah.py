@@ -393,7 +393,7 @@ elif menu == "Departemen PSDA":
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
                 "nim": "122450123",
-                "umur": "18",
+                "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
