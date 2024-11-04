@@ -388,7 +388,7 @@ elif menu == "Departemen PSDA":
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandr99",
                 "kesan": "Abangnya keren banget",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat kuliahnya bangg, jangan lupa belajar tiap hari", 
             },
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
