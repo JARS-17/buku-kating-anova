@@ -656,7 +656,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1GC1Jy9kgcQUvW0sgtebbeJDOaOgzhkv7",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1F8ibL_vkAhbDZeQXyyzS1bnC1yvksDeV",
+            "https://drive.google.com/uc?export=view&id=1Ggd6YxbevVx0ghgcWVSi_714a6FwMSdO",
             "https://drive.google.com/uc?export=view&id=1GqJ1bB5h_0owgsrg1OA6nyHg-4tTrInm",
             "https://drive.google.com/uc?export=view&id=1GOiKy6vysquRmW8jcoAqYgq3mbXbC6-l",
             "https://drive.google.com/uc?export=view&id=1GoWvpPOItmyqzs7UJLwGw-jd1elydarZ",
@@ -666,7 +666,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1GEtS0Du3x5BVhh6fSwSsa0o0XlUg3IN4",
             "https://drive.google.com/uc?export=view&id=1GCSbsiHdEcfGd8b3wDBq0HQOti_GTxjm",
             "https://drive.google.com/uc?export=view&id=1GanTtXCKwhlo1PLN18BTRd84_lV4UX3J",
-            
+
 
         ]
         data_list = [
