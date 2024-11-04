@@ -102,23 +102,24 @@ if menu == "Home":
             "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True
         )
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">ANOVA, yang merupakan singkatan dari "Analysis of Variance," adalah nama
+                    kelompok yang menonjolkan semangat eksplorasi, analisis, dan ketepatan dalam sebuah kompetisi. Secara statistik,
+                    ANOVA adalah metode yang digunakan untuk menguji perbedaan rata-rata antar beberapa kelompok. Dalam konteks 
+                    kelompok ini, ANOVA mencerminkan semangat dalam mengidentifikasi kekuatan unik dari setiap anggota dan menyatukannya
+                    menjadi keunggulan bersama.
+                    .</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
-        foto_kelompok = "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=1SZ1B3KTnng3IIsm_mDF-pa0FQTgWM6jO"
         layout(foto_kelompok)
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
+            """<div Seperti konsep statistiknya, ANOVA berfokus pada tiga prinsip utama: analisis mendalam, kerja sama yang solid, dan 
+                    pembuktian keterampilan melalui data dan hasil nyata. Kelompok ANOVA terdiri dari anggota-anggota yang ahli dalam 
+                    berkolaborasi, berpikir kritis, dan menghadapi tantangan dengan strategi yang matang. ANOVA siap mengatasi berbagai 
+                    tantangan dengan menggabungkan kreativitas, logika, dan ketelitian untuk mencapai tujuan akhir. Filosofi ANOVA adalah 
+                    bahwa keberhasilan sebuah tim tercapai melalui penggabungan perbedaan, di mana setiap anggota berkontribusi untuk menciptakan 
+                    hasil yang lebih kuat dan berimbang.
                     .</div>""",
             unsafe_allow_html=True,
         )
