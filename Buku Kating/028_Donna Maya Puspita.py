@@ -640,7 +640,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal": "Makassar",
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
-                "sosmed": "-",
+                "sosmed": "Tidak punya",
                 "kesan": "Sangat pintar dan cerdas dalam menjelaskan jawaban",
                 "pesan": "Semangat terus Bang Tao!",
             },
@@ -697,7 +697,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
                 "kesan": "Sangat ramah dan cantik sekali",
-                "pesan": "Terima kasih, Kak Cia selalu banyak membantu saat Praktikum ADS! Sukses selalu", 
+                "pesan": "Terima kasih, Kak Cia selalu banyak membantu saat Praktikum ADS! Sukses selalu.", 
             },
             {
                 "nama": "Rahma Neliyana",
