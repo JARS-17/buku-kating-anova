@@ -455,7 +455,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Hui",
                 "hobbi": "Masak",
                 "sosmed": "@_oktavianrwndh",
-                "kesan": "Kakaknya asik banget",
+                "kesan": "Kakaknya asik bangett",
                 "pesan": "Semangat kuliahnya kak, semoga nilainya A",
             },
             {
