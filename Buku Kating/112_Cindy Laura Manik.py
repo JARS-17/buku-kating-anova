@@ -335,7 +335,7 @@ elif menu == "Senator":
                 "sosmed": "@bintangtwinkle",
                 "kesan": "Abangnya keren banget",
                 "pesan": "Semangat kuliahnya bang, sukses selalu!",
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     senator()
@@ -786,7 +786,7 @@ elif menu == "Departemen MEDKRAF":
                "sosmed": "@dwiratn_",
                "kesan": "Kakaknya positif vibes banget",
                "pesan": "Tetap humble dan terus menyebarkan energi baik kak",
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     Medkraf()
@@ -1230,6 +1230,7 @@ elif menu == "Departemen Eksternal":
         ]
         display_images_with_data(gambar_urls, data_list)
     Eksternal()
+
 elif menu == "Departemen Internal":
     def Internal():
         gambar_urls = [
@@ -1248,7 +1249,6 @@ elif menu == "Departemen Internal":
         ]
         data_list = [
             {
-
                 "nama": "Dimas rizky ramadhani",
                 "nim": "121450027",
                 "umur": "20",
@@ -1394,6 +1394,7 @@ elif menu == "Departemen Internal":
         ]
         display_images_with_data(gambar_urls, data_list)
     Internal()
+    
 elif menu == "Departemen SSD":
     def Ssd():
         gambar_urls = [
@@ -1506,7 +1507,7 @@ elif menu == "Departemen SSD":
                 "sosmed": "@meylaniellia",
                 "kesan": "Kakak cantik banget, manis, murah senyum, asik",  
                 "pesan":"Semangat berkembang dan berkarya kak, sukses selalu"
-            }
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     Ssd()
