@@ -593,9 +593,9 @@ elif menu == "Departemen PSDA":
         display_images_with_data(gambar_urls, data_list)
     Psda()
 
-elif menu == "Departemen MEDKRAF":
+elif menu == "Departemen MEDCRAF":
 
-    def Medkraf():
+    def Medcraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=16Bg1DdSd779c3P7hgZ7zV13V1nYwMbY",
             "https://drive.google.com/uc?export=view&id=16-PdBYb1BRQye9b5D-AgBYleegjv2D3r",
@@ -817,7 +817,7 @@ elif menu == "Departemen MEDKRAF":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Medkraf()
+    Medcraf()
 
 elif menu == "Departemen MIKFES":
 
