@@ -115,8 +115,8 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pulau Damar",
                 "hobbi": "Dengerin Musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "ramah dan asik",  
-                "pesan":"Semangat buat TA nya bang, sehat selalu!"
+                "kesan": "awesome",  
+                "pesan":"semoga semua mimpinya bisa terwujud bang!"
             },
             {  
                 "nama": "Pandra Insani Putra Anwar",
@@ -384,9 +384,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1nLFOdduF8v3I-Xi5G3s6pACT4F5LFS24",
             "https://drive.google.com/uc?export=view&id=1CwduJEtKASCf8bq7LnmhZoU9zYl1llor",
             "https://drive.google.com/uc?export=view&id=1EL8Prskn37rupiofpBXoWp3jy4dzmGvA",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            
         ]
         data_list = [
                         {
@@ -403,7 +401,7 @@ elif menu == "Departemen PSDA":
             {
                 "nama": "Elisabeth Claudia Simanjuntak",
                 "nim": "122450123",
-                "umur": "18",
+                "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Kemiling",
                 "hobbi": "Bernafas",
@@ -611,39 +609,7 @@ elif menu == "Departemen PSDA":
                 "kesan": "awalnya gabisa bedain sama kak dina",  
                 "pesan":"ayoo sdm lagi kak tahun depann",
             },
-            {
-                "nama": "Rafly Prabu Darmawan",
-                "nim": "122450140",
-                "umur": "20",
-                "asal":"Bangka Belitung",
-                "alamat": "Sukarame",
-                "hobbi": "Main Game",
-                "sosmed": "@raflyy_pd2684",
-                "kesan": "humblee",  
-                "pesan":"semangat tetap semangat bang",
-            },
-            { 
-                "nama": "Rafa Aqilla Jungjunan", 
-                "nim": "122450142", 
-                "umur": "20", 
-                "asal":"Pekanbaru", 
-                "alamat": "JBelwis", 
-                "hobbi": "Baca webtoon", 
-                "sosmed": "@rafaaqilla", 
-                "kesan": "pendengar yang baik",   
-                "pesan":"semoga dipermudah semua urusannya ya kak" 
-            },
-            { 
-                "nama": "Vanessa Olivia Rose", 
-                "nim": "121450108", 
-                "umur": "20", 
-                "asal":"Jakarta", 
-                "alamat": "Perum korpri", 
-                "hobbi": "Belajar", 
-                "sosmed": "@roselivnes__", 
-                "kesan": "tuluss dan positif vibes",   
-                "pesan":"bahagia terus kak" 
-            }
+           
         ]
         display_images_with_data(gambar_urls, data_list)
     Psda()
@@ -654,11 +620,9 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1GDdCSYZhy4uhFPRDIAGpNBZH_-J0QXm0",
             "https://drive.google.com/uc?export=view&id=1G9rSMVCcfNxeUbCGis8smTNNtb1NZB13",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1GnW7Sj7syeyp6b-Qlh3QYTOXMgTaWPUg",
             "https://drive.google.com/uc?export=view&id=1GM7Ao-eXNwqnpHtDh9Osi3CN-0k5wFrX",
             "https://drive.google.com/uc?export=view&id=1GC1Jy9kgcQUvW0sgtebbeJDOaOgzhkv7",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1Ggd6YxbevVx0ghgcWVSi_714a6FwMSdO",
             "https://drive.google.com/uc?export=view&id=1GqJ1bB5h_0owgsrg1OA6nyHg-4tTrInm",
@@ -696,17 +660,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": "cakep bangett kakk",
                 "pesan": "terima kasih sudah membagikan ilmu!", 
             },
-            {
-                "nama": "Arsyiah Azahra",
-                "nim": "121450035",
-                "umur": "21",
-                "asal": "Bandar Lampung",
-                "alamat": "Tanjung Senang",
-                "hobbi": "Nugas",
-                "sosmed": "@arsyiah._",
-                "kesan": "asikkkk",
-                "pesan": "semangat terus kak", 
-            },
+            
             {
                 "nama": "Muhammad Kaisar Firdaus ",
                 "nim": " 121450135",
@@ -740,17 +694,7 @@ elif menu == "Departemen MEDKRAF":
                 "kesan": "vibesnya cocok banget di divisi media & konten",
                 "pesan": "semangat ngonten kak", 
             },
-            {
-                "nama": "Eka Fidiya Putri",
-                "nim": " 122450045",
-                "umur": "20",
-                "asal": "Natar, Lampung Selatan",
-                "alamat": "Natar, Lampung Selatan",
-                "hobbi": "Menyibukkan Diri",
-                "sosmed": "@ekafdyaptri",
-                "kesan": "menginspirasi",
-                "pesan": "jangan lupa istirahat dan tidur kak", 
-            },
+            
             {
                 "nama": "Najla Juwairia",
                 "nim": "122450037",
