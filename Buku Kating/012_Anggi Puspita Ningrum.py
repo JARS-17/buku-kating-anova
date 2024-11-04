@@ -187,13 +187,13 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=17EZ-6JYKOCd5KCjKEezsIPVlIvMEB4kX",
             "https://drive.google.com/uc?export=view&id=17EK7qtBL56-xJzOoDnM9VbNp3bHCMz4A",
             "https://drive.google.com/uc?export=view&id=17QVO3UFaUFClE9XdkK13mN9B2y5Y3iTt",
+            "https://drive.google.com/uc?export=view&id=17X8juYfbPFloccQPtcGHe0-jX90ehLbR",
+            "https://drive.google.com/uc?export=view&id=1I3Eh-fKNLM_dVoSQB8dk4Nq6tP-34Qcs",
             "https://drive.google.com/uc?export=view&id=17x5VXHFw7H56MUzRVPpTR_C1cxKo8VXX",
             "https://drive.google.com/uc?export=view&id=17nuKp4XMIA9vbNnqR1GzhTLke5SN5JLd",
-            "https://drive.google.com/uc?export=view&id=17X8juYfbPFloccQPtcGHe0-jX90ehLbR",
             "https://drive.google.com/uc?export=view&id=17sNXRcKnWVQKwNdv3ne8jSYy-_Jgxxit",
-            "https://drive.google.com/uc?export=view&id=1I3Eh-fKNLM_dVoSQB8dk4Nq6tP-34Qcs",
-            "https://drive.google.com/uc?export=view&id=17xx99e76NqBNM5AJoAXaMc0eHeOav157",
             "https://drive.google.com/uc?export=view&id=17IrUjO9IDyo-CVgxped3CtCIlaNItBgZ",
+            "https://drive.google.com/uc?export=view&id=17xx99e76NqBNM5AJoAXaMc0eHeOav157",
         ]
         data_list = [
             {
@@ -241,6 +241,28 @@ elif menu == "Baleg":
                 "pesan":"semangat menjalani hari-hari dan pesiapan TA nya kak dini!!"# 1
             },
              {
+                "nama": "Claudhea Angeliani",
+                "nim": "121450124",
+                "umur": "21",
+                "asal":"Lampung Timur",
+                "alamat": "Lampung Timur",
+                "hobbi": "Tidur",
+                "sosmed": "@dylldbee",
+                "kesan": "asik dan baik",  
+                "pesan":"semangat terus menjalani hari-harinya dan persiapan TA nya kak claudhia!!"# 1
+            },
+             {
+                "nama": "Muhammad Fachrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal":"Surakarta,Jawa Tengah",
+                "alamat": "Sukarame",
+                "hobbi": "Melukis dan Olahraga",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "baik bangetttt abangnya",  
+                "pesan":"tetep semangat ngasprak dan persiapan TA nya ya bang!!"# 1
+            },
+             {
                 "nama": "Feriyadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
@@ -263,17 +285,6 @@ elif menu == "Baleg":
                 "pesan":"harus selalu tersenyum dan bahagia menjalani hari-harinya!!"# 1
             },
              {
-                "nama": "Claudhia Angeliani",
-                "nim": "121450124",
-                "umur": "21",
-                "asal":"Lampung Timur",
-                "alamat": "Lampung Timur",
-                "hobbi": "Tidur",
-                "sosmed": "@dylldbee",
-                "kesan": "asik dan baik",  
-                "pesan":"semangat terus menjalani hari-harinya dan persiapan TA nya kak claudhia!!"# 1
-            },
-             {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
                 "umur": "20",
@@ -285,15 +296,15 @@ elif menu == "Baleg":
                 "pesan":"harus tetap tersenyum dan bahagia ya bang!!"# 1
             },
              {
-                "nama": "Muhammad Fahrul Aditya",
-                "nim": "121450156",
-                "umur": "22",
-                "asal":"Surakarta,Jawa Tengah",
-                "alamat": "Sukarame",
-                "hobbi": "Melukis dan Olahraga",
-                "sosmed": "@fhrul.pdf",
-                "kesan": "baik bangetttt abangnya",  
-                "pesan":"tetep semangat ngasprak dan persiapan TA nya ya bang!!"# 1
+                "nama": "Berlinda Enda Putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal":"Sumatera Barat",
+                "alamat": "Way Huwi",
+                "hobbi": "MDuduk di tepi pantai dambil galauin bintang yang tinggal satu",
+                "sosmed": "@berlyynda",
+                "kesan": "asik,lucu dan seru",  
+                "pesan":"harus tetep semangat yaa kak jangan mudah menyerah!!"# 1
             },
              {
                 "nama": "Jeremi Susanto",
@@ -305,17 +316,6 @@ elif menu == "Baleg":
                 "sosmed": "@jeremi_s_",
                 "kesan": "keren banget kak!!",  
                 "pesan":"bang jere jangan lupa senyum dan semangat kuliahnyaaa!!"# 1
-            },
-             {
-                "nama": "Berlinda Enda Putri",
-                "nim": "122450065",
-                "umur": "20",
-                "asal":"Sumatera Barat",
-                "alamat": "Way Huwi",
-                "hobbi": "MDuduk di tepi pantai dambil galauin bintang yang tinggal satu",
-                "sosmed": "@berlyynda",
-                "kesan": "asik,lucu dan seru",  
-                "pesan":"harus tetep semangat yaa kak jangan mudah menyerah!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -684,18 +684,18 @@ elif menu == "Departemen MIKFES":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1iT7w4VzecLKH780gi06s_1tXME24Oefv",
             "https://drive.google.com/uc?export=view&id=1hvklUjpYRu1L1QmfmAxTTnE1_g8bZxhm",
+            "https://drive.google.com/uc?export=view&id=1iRAretU-if3SdolQjTC8dRWh1Nx7lW8c",
+            "https://drive.google.com/uc?export=view&id=1i26rTUGwaCgdtP8764QnyhRcnt6N5gEj",
             "https://drive.google.com/uc?export=view&id=1hE1uJohpj7v6uNnCff4_YvYCUPFYELfW",
             "https://drive.google.com/uc?export=view&id=1i2QWx6-EfazB5s2ck1q0pi8fX6Fp_cqQ",
             "https://drive.google.com/uc?export=view&id=1hM4tpCGs15QbVGYWUluh4TRi5ay4s-hR",
             "https://drive.google.com/uc?export=view&id=1hkwHV9bAW2cCaGca7ZOwC5H3jdPBjs1t",
-            "https://drive.google.com/uc?export=view&id=1iRAretU-if3SdolQjTC8dRWh1Nx7lW8c",
             "https://drive.google.com/uc?export=view&id=1hO57SrGK4V7gwpKOLzjyU4r-Zuh6B7o7",
             "https://drive.google.com/uc?export=view&id=1hXoT5RVPkwLk-sQ_JY1HniV1lbiWVHvb",
             "https://drive.google.com/uc?export=view&id=1hxcfY-gL9GPx2P0YZC24Z5w4CfwHwTLQ",
             "https://drive.google.com/uc?export=view&id=1hOMhnVaypPGgZ6NaHZKI3aCKTTK4G-gj",
             "https://drive.google.com/uc?export=view&id=1hnmZJXZGIhFbzJ_B8yI6D5Ok8MmbVZXA",
             "https://drive.google.com/uc?export=view&id=1hcpjNXksJNz3PvKfTloOjeYjCBSJYMB6",
-            "https://drive.google.com/uc?export=view&id=1i26rTUGwaCgdtP8764QnyhRcnt6N5gEj",
             "https://drive.google.com/uc?export=view&id=1i9XmX_5MvG6oMtUpnD2Bawz1ChHm2Ulg",
             "https://drive.google.com/uc?export=view&id=1iJK1YdbxuSHB1Hsy060xOT98J74WisEM",
             "https://drive.google.com/uc?export=view&id=1hxtkgrALzvay6F3Q70O5D7vblUii6buR",
@@ -724,6 +724,28 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@anovavona",
                 "kesan": "kakaknya keren banget!!",
                 "pesan": "semangat menjalani hari-hari dan persiapan TA nya kak anovaaa:)!!",
+            },
+            {
+                "nama": "Natanael Oktavianus Partahan Sihombing ",
+                "nim": "121450107",
+                "umur": "20 Tahun",
+                "asal": "Jakarta",
+                "alamat": "Kemiling ",
+                "hobbi": "Membuka Wisata HMSD",
+                "sosmed": "@natanaeloks",
+                "kesan": "Abangnya kece banget!!!",
+                "pesan": "semangat persiapan TA nya bang dan jangan lupa tersenyum:)!!!",
+            },
+            {
+                "nama": " Abdurrahman Al-atsary",
+                "nim": "121450128",
+                "umur": "23 Tahun",
+                "asal": "Bandar Lampung",
+                "alamat": "Perumnas Way Kandis",
+                "hobbi": " Membaca",
+                "sosmed": "@rahmn_abdr",
+                "kesan": "Abangnya kece banget!!",
+                "pesan": "semangat menjalankan hari-hari dan persiapan TA nya bang!!",
             },
             {
                 "nama": " Ahmad Sahidin Akbar",
@@ -768,17 +790,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@dkselsd_31",
                 "kesan": "kakaknya keren banget!!",
                 "pesan": "kak harus terus bahagia dan tersenyum yaaaa:)!!",
-            },
-            {
-                "nama": "Natanael Oktavianus Partahan Sihombing ",
-                "nim": "121450107",
-                "umur": "20 Tahun",
-                "asal": "Jakarta",
-                "alamat": "Kemiling ",
-                "hobbi": "Membuka Wisata HMSD",
-                "sosmed": "@natanaeloks",
-                "kesan": "Abangnya kece banget!!!",
-                "pesan": "semangat persiapan TA nya bang dan jangan lupa tersenyum:)!!!",
             },
             {
                 "nama": "Anwar Muslim",
@@ -845,17 +856,6 @@ elif menu == "Departemen MIKFES":
                 "sosmed": "@puspadrr",
                 "kesan": "pendengar yang baik",
                 "pesan": "semangat terus ya kak dan jangan bosen dengerin aku cerita:)",
-            },
-            {
-                "nama": " Abdurrahman Al-atsary",
-                "nim": "121450128",
-                "umur": "23 Tahun",
-                "asal": "Bandar Lampung",
-                "alamat": "Perumnas Way Kandis",
-                "hobbi": " Membaca",
-                "sosmed": "@rahmn_abdr",
-                "kesan": "Abangnya kece banget!!",
-                "pesan": "semangat menjalankan hari-hari dan persiapan TA nya bang!!",
             },
             {
                 "nama": "Aditya Rahman",
