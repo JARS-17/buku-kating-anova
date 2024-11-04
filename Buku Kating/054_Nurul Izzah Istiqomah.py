@@ -360,7 +360,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1JYU9PnJN2OEDMpcLMiEvR74X_AjXXicu",
             "https://drive.google.com/uc?export=view&id=1JYTyS4I_gvVboPGK0RVyw4lqXoLFydRQ",
             "https://drive.google.com/uc?export=view&id=1Ij1jXu_4Amd_gzrKO07Exk_YiloVk3oI",
-            "https://drive.google.com/uc?export=view&id1JCKD-J1tkSML8kIymviOIq1NEW3ITJA1",
+            "https://drive.google.com/uc?export=view&id=1JCKD-J1tkSML8kIymviOIq1NEW3ITJA1",
             "https://drive.google.com/uc?export=view&id=1JbT7L2rcEZD9oX8Yt9S-recxYjH1nE9G",
             "https://drive.google.com/uc?export=view&id=1J4JQcYEKaNbtas0LuGKA0V7pZG5h7BZ_",
             "https://drive.google.com/uc?export=view&id=1IgM8qjj87nZ1B50ZKUUAKABC7RnJK9Tm",
@@ -387,7 +387,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobbi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "makasih insightnya bang, keren bangett",  
+                "kesan": "makasih insightnyaa bang, keren bangett",  
                 "pesan":"Sehat selalu bang, semangat terus",
             },
             {
