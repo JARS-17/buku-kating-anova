@@ -1284,8 +1284,8 @@ elif menu == "Departemen SSD":
     def Ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=16N47JnUmZ8frpQqkJx5syw8e1uGCHtZZ",
-            "https://drive.google.com/uc?export=view&id=16KvWtqBLVInYCuRvcuuZwePRNAwKR1La",
             "https://drive.google.com/uc?export=view&id=16OJKJbRX7rfAytApLkn6GWPN9fBJu3Kw",
+            "https://drive.google.com/uc?export=view&id=16KvWtqBLVInYCuRvcuuZwePRNAwKR1La",
             "https://drive.google.com/uc?export=view&id=16MPKuQ9KebUTEiUvp_lnA7n19oxbVJrA",
             "https://drive.google.com/uc?export=view&id=16AiMJLA0sxbLrXVuNi34Byfm5WOILREm",
             "https://drive.google.com/uc?export=view&id=168fw53L-HhCFEH0Mp89T5IWq85PEFlyT",
