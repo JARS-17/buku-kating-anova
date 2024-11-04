@@ -110,7 +110,7 @@ if menu == "Kesekjenan":
             {
 
                 "nama": "Kharisma Gumilang",
-                "nim": "121450042",
+                "nim": "121450142",
                 "umur": "21",
                 "asal": "Palembang",
                 "alamat": "Jl.Pulau Damar",
@@ -355,7 +355,7 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
 
-elif menu == "DEPARTEMEN PSDA":
+elif menu == "Departemen PSDA":
     def Psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1Vkr1xfU9VCIA8lFVO6SmpYRWJUi6NSV_",
@@ -593,7 +593,7 @@ elif menu == "DEPARTEMEN PSDA":
         display_images_with_data(gambar_urls, data_list)
     Psda()
 
-elif menu == "Departemen MedKraf":
+elif menu == "Departemen MEDKRAF":
 
     def Medkraf():
         gambar_urls = [
@@ -1057,7 +1057,7 @@ elif menu == "Departemen MIKFES":
         display_images_with_data(gambar_urls, data_list)
     Mikfes()
 
-elif menu == "DEPARTEMEN EKSTERNAL ":
+elif menu == "Departemen Eksternal":
     def Eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1RVhGP7scHrJwBkaW4kssLmmmZfBzUQeT",
@@ -1293,7 +1293,7 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
         ]
         display_images_with_data(gambar_urls, data_list)
     Eksternal()
-elif menu == "DEPARTEMEN INTERNAL ":
+elif menu == "Departemen Internal":
     def Internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1NrisZKkxoUmdS0Guq6OMJa2Rafl2ewvk",
@@ -1457,7 +1457,7 @@ elif menu == "DEPARTEMEN INTERNAL ":
         ]
         display_images_with_data(gambar_urls, data_list)
     Internal()
-elif menu == "DEPARTEMEN SSD ":
+elif menu == "Departemen SSD":
     def Ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1AffVElt41QiP03Y7UwUbd96bffmibDZ4",
@@ -1468,6 +1468,7 @@ elif menu == "DEPARTEMEN SSD ":
             "https://drive.google.com/uc?export=view&id=1Afqe8Or4OmZ-mEdki19_iB5D76noEAtU",
             "https://drive.google.com/uc?export=view&id=1AoCGRNeDA4mX9-w969ewutcVxvxBZtzs",
             "https://drive.google.com/uc?export=view&id=1AoP6P3nZA4esHEirhiSRlaSXe6K4p0hE",
+            "https://drive.google.com/uc?export=view&id=1AovOXILpD6XNjvBJAeQ6Vt9m9yil2Ro3",
 
         ]
         data_list = [
@@ -1558,6 +1559,17 @@ elif menu == "DEPARTEMEN SSD ":
                 "sosmed": "@dhafinrzqri3",
                 "kesan": "baik sekaliii",
                 "pesan": "semangat selalu bang",
+            },
+            {
+                "nama": "Elia Meylani Simanjuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Main Alat Musik",
+                "sosmed": "@meylanielia",
+                "kesan": "baik sekaliii",
+                "pesan": "Kakak hebat! Semoga selalu sukses di masa depan."
             },
         ]
         display_images_with_data(gambar_urls, data_list)
