@@ -1413,8 +1413,8 @@ elif menu == "Departemen SSD":
     def Ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1BZM6qsE06Ht7r0WrTJfvTcIDk_fRhlhc",
-            "https://drive.google.com/uc?export=view&id=1BTnMdpqaOpRvmc26r0bhycGj8fyxHrIm",
             "https://drive.google.com/uc?export=view&id=1BRm9fHDrApt7FU8wIeFgyKy7n0MQlnNz",
+            "https://drive.google.com/uc?export=view&id=1BTnMdpqaOpRvmc26r0bhycGj8fyxHrIm",
             "https://drive.google.com/uc?export=view&id=1BZg5Dd5uHdGdtDAC4QMN2GpJS85DW107",
             "https://drive.google.com/uc?export=view&id=1BVNXctSvEFcv7QCgM6AFEzCRKgojGdJp",
             "https://drive.google.com/uc?export=view&id=1Az4wlRvJYSSP6BC0cyVNYqL_TZgdEH1k",
@@ -1491,17 +1491,6 @@ elif menu == "Departemen SSD":
                 "pesan": "Semangat abang kapo",
             },
             {
-                "nama": "Nabilah Andika Fitriani",
-                "nim": "121450129",
-                "umur": "21",
-                "asal": "Bandar Lampung",
-                "alamat": "Kedaton",
-                "hobbi": "Tidur",
-                "sosmed": "@nabilaafrn",
-                "kesan": "Sharing ilmunya keren banget",
-                "pesan": "Semangat kuliahnya kak",
-            },
-            {
                 "nama": "Alvia Asrinda Br.Ginting",
                 "nim": "122450077",
                 "umur": "20",
@@ -1532,7 +1521,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Nyanyi",
                 "sosmed": "@meylaniellia",
                 "kesan": "kakak cantik banget, manis, terus ramah dan baik, seruu",  
-                "pesan":"semangat kuliahnya kak"
+                "pesan":"semangat kuliahnya kakk"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
