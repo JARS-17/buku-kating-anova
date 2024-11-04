@@ -110,7 +110,7 @@ if menu == "Kesekjenan":
             {
 
                 "nama": "Kharisma Gumilang",
-                "nim": "121450042",
+                "nim": "121450142",
                 "umur": "21",
                 "asal": "Palembang",
                 "alamat": "Jl.Pulau Damar",
@@ -1203,7 +1203,6 @@ elif menu == "Departemen Internal":
                 "alamat": "Rajabasa",
                 "hobbi": "Mengaji",
                 "sosmed": "@ranipu",
-
                 "kesan": "Kakak baik",
                 "pesan": "Selalu bermanfaat untuk orang sekitar ya kak",
             },
@@ -1215,7 +1214,6 @@ elif menu == "Departemen Internal":
                 "alamat": "Jalan lapas raya",
                 "hobbi": "nulis lagu",
                 "sosmed": "@rendraepr",
-
                 "kesan": "Ramah bintang 1000",
                 "pesan": "Semoga jadi pribadi yang lebih baik lagi ",
             },
@@ -1227,7 +1225,6 @@ elif menu == "Departemen Internal":
                 "alamat": "Airan raya",
                 "hobbi": "ngeliat cogan",
                 "sosmed": "@slwfhn_694",
-
                 "kesan": "Cantik bangett",
                 "pesan": "semangat kuliahnya kak",
             },
