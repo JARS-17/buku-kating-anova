@@ -1325,6 +1325,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1_VipCe4_sHe8OFKXfaXIK5n0NMGBZVtV",
             "https://drive.google.com/uc?export=view&id=1cLsSpsz1XsB0P4UwmWTUnVrsfRt1uX2X",
             "https://drive.google.com/uc?export=view&id=150k7KErPM3WUnk50nRkvm9MbZcHdYuYU",
+            "https://drive.google.com/uc?export=view&id=150k7KErPM3WUnk50nRkvm9MbZcHdYuYU",
             "https://drive.google.com/uc?export=view&id=1uIEkHyIf5OSCKKVFRpSAAWK12uf5A8Bk",
         ]
         data_list = [
@@ -1458,7 +1459,7 @@ elif menu == "Departemen Internal":
                 "hobbi": "Bawa motor pakai kaki",
                 "sosmed": "@yosiabanurea",
                 "kesan": "Baik bangett",
-                "pesan": "mau liat kakaknya bawa motor pls",
+                "pesan": "mau liat abangnya bawa motor pls",
             },
             {
                 "nama": "Josua panggabean",
