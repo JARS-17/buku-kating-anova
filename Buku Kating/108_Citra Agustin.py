@@ -1501,7 +1501,7 @@ elif menu == "Departemen SSD":
                 "hobbi": "Nonton Windah",
                 "sosmed": "@alviaginting",
                 "kesan": "kakaknya keren banget",
-                "pesan": "Sukses terus kak, semangat kuliahnya",
+                "pesan": "Sukses terus kak, semangat kuliahnya bahagia selalu..",
             },
             {
                 "nama": "Dhafin Razaka Luthfia",
