@@ -622,8 +622,9 @@ elif menu == "Departemen MEDCRAF":
                 "alamat": "Sukarame",
                 "hobbi": "Nonton",
                 "sosmed": " ",
-                "kesan": "Abangnya keren banget",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari",
+                "kesan": "Abangnya keren, kelihatan aura pemimpinnya",
+                "pesan": "Semoga sukses dalam segala hal."
+,
             },
             {
                 "nama": "Elok Fiola",
@@ -645,7 +646,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Lagi Nyari",
                 "sosmed": " @dino_kiper",
                 "kesan": "keren abangnya",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "pesan": "Selalu percaya pada diri sendiri", 
             },
             {
                 "nama": "Muhammad Arsal Ranjana Putra",
@@ -656,7 +657,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Ngoding",
                 "sosmed": "@arsal.utama",
                 "kesan": "parah si keren banget",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat ngodingnya bang ", 
             },
             {
                 "nama": "Cintya  Bella",
@@ -667,7 +668,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
                 "kesan": "Suka banget sama outfit kakak, cocok banget di divisi media & konten",
-                "pesan": "Semangat kuliahnya kak, jangan lupa belajar tiap hari", 
+                "pesan": "semangat ngontennya kak, bahagia selalu", 
             },
             {
                 "nama": "Patricia Leondra Diajeng Putri ",
@@ -678,7 +679,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
                 "kesan": "ini juga ramah banget",
-                "pesan": "Semangat kuliahnya kak, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat kuliahnya, sehat sehat kakak", 
             },
             {
                 "nama": "Rahma Neliyana",
@@ -689,7 +690,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
                 "kesan": "ramah bintang 1000",
-                "pesan": "Semangat kuliahnya kak, jangan lupa belajar tiap hari", 
+                "pesan": "ramah terus ya kakk", 
             },
             {
                 "nama": "Try Yani Rizki Nur Rohmah ",
@@ -700,7 +701,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
                 "kesan": "cantik sekali",
-                "pesan": "Semangat kuliahnya kak, jangan lupa belajar tiap hari", 
+                "pesan": "Jaga semangat, capai cita-cita!", 
             },
             {
                 "nama": "Gymnastiar Al Khoarizmy",
@@ -711,7 +712,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
                 "kesan": "keren parah",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "pesan": "semangat berproses, apapun hasilnya tetap syukuri", 
             },
             {
                 "nama": "Nasywa Nur Afifah ",
@@ -733,7 +734,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
                 "kesan": "baik sekalee",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat kuliahnya bang, apapun yang terjadi selalu semangat", 
             },
             {
                 "nama": "Akmal Faiz Abdillah",
@@ -744,7 +745,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Main HP",
                 "sosmed": "@_akmal.faiz",
                 "kesan": "abangnya baikk",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat kuliahnya bang, semoga sukses selalu", 
             },
             {
                 "nama": "Hermawan Manurung ",
@@ -755,7 +756,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "keren si kalo kataku",
-                "pesan": "Semangat kuliahnya bang, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat bengongnya bang", 
             },
             {
                 "nama": "Khusnun Nisa",
@@ -766,7 +767,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
                 "kesan": "imut, lucu",
-                "pesan": "Semangat kuliahnya kak, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat mengerjakan tugasnya kak", 
             },
             {
                 "nama": "Priska Silvia Ferantiana",
@@ -777,7 +778,7 @@ elif menu == "Departemen MEDCRAF":
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
                 "kesan": "baikk sekalii",
-                "pesan": "Semangat kuliahnya kak, jangan lupa belajar tiap hari", 
+                "pesan": "Semangat baca novelnya kak, jangan lupa belajar ya kak", 
             },
         ]
         display_images_with_data(gambar_urls, data_list)
