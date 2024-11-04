@@ -111,7 +111,7 @@ if menu == "Home":
             unsafe_allow_html=True,
         )
         st.write(""" """)
-        foto_kelompok = "https://drive.google.com/uc?export=view&id=1ygUy8u7fPUpqIAmDgxpz_l_QWkw6yu15"
+        foto_kelompok = "https://drive.google.com/uc?export=view&id=1SZ1B3KTnng3IIsm_mDF-pa0FQTgWM6jO"
         layout(foto_kelompok)
         st.markdown(
             """<div style="text-align: justify;">Seperti konsep statistiknya, ANOVA berfokus pada tiga prinsip utama: analisis mendalam, kerja sama yang solid, dan 
