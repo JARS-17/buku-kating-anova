@@ -1444,7 +1444,6 @@ elif menu == "Departemen SSD":
                 "kesan": "baik sekaliii",
                 "pesan": "Kakak hebat! Semoga selalu sukses di masa depan."
             }
-,
         ]
         display_images_with_data(gambar_urls, data_list)
     Ssd()
