@@ -109,7 +109,7 @@ if menu == "Kesekjenan":
         data_list = [
             {
                 "nama": "Kharisma Gumilang",
-                "nim": "121450042",
+                "nim": "121450142",
                 "umur": "21",
                 "asal": "Palembang",
                 "alamat": "Jl.Pulau Damar",
@@ -231,7 +231,7 @@ elif menu == "Baleg":
             },
              {
                 "nama": "Anisa Dini Amalia",
-                "nim": "121450081",
+                "nim": "121450021",
                 "umur": "20",
                 "asal":"Tangerang",
                 "alamat": "Jati Agung",
@@ -275,7 +275,7 @@ elif menu == "Baleg":
             },
              {
                 "nama": "Mirzan Yusuf Rabbani",
-                "nim": "122450110",
+                "nim": "122450118",
                 "umur": "20",
                 "asal":"Jakarta",
                 "alamat": "Korpri",
@@ -480,17 +480,22 @@ elif menu == "Departemen MEDKRAF":
 
     def Medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
-            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1ZL1tv5319djytjKJkjVjkU6_mKAFz2Ia",
+            "https://drive.google.com/uc?export=view&id=1Z5B0p6bkKRmkeR063gcAsFFw8wcYvA2k",
+            "https://drive.google.com/uc?export=view&id=1ZpBPBXigQzxQhxQMM_fP9MfmarsjJxzQ",
+            "https://drive.google.com/uc?export=view&id=1ZxSFHiu-IIazc54ScstzR_UHNahb6mLs",
+            "https://drive.google.com/uc?export=view&id=1Z5giagCFVlcntLy5Pi9SyTWgNu3Yu1uj",
+            "https://drive.google.com/uc?export=view&id=1ZqqWBCA2U-NudZTxcePLdxcKH4DCixYR",
+            "https://drive.google.com/uc?export=view&id=1aJfBrLxwwV3KWpxJh1Kav_u7uUZXuz8R",
+            "https://drive.google.com/uc?export=view&id=1_2DO2e8vIj3_J_mTd2LK_-71yB2l-Biw",
+            "https://drive.google.com/uc?export=view&id=1_0Zl6Tm-QGOQF9wdAJ4cngfERDuyDr5i",
+            "https://drive.google.com/uc?export=view&id=1ZbNterpAPKoH9_q4vjyvZjwvkfaEktyd",
+            "https://drive.google.com/uc?export=view&id=1ZN6a37EM0QY8Hxa_qEo8iG1NbBilRV5m",
+            "https://drive.google.com/uc?export=view&id=1ZMdJIic_tg29ABSZXdAN7vgU05Z3D9Wg",
+            "https://drive.google.com/uc?export=view&id=1ZHFBfWtYJtL1aydUzRrZMTgFMGClL_yI",
+            "https://drive.google.com/uc?export=view&id=1Z6aaQv0_g3T3O-kSK22xEUZJFDYKYtGN",
+            "https://drive.google.com/uc?export=view&id=1Zjqqs5gxUYfrseIAwdPwRGaxa_lKilqf",
+            "https://drive.google.com/uc?export=view&id=1ZgaVTFI48nnKdO2fItrvgjQrb6WzyNT9",
         ]
         data_list = [
             {
@@ -502,7 +507,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton",
                 "sosmed": "@wayylaja",
                 "kesan": "Abangnya kece banget!!",
-                "pesan": "semangat menjalani hari-hari dan persiapan TA nya bang!!",
+                "pesan": "semangat menjalani hari-hari dan persiapan TA nya bang wahyu!!",
             },
             {
                 "nama": "Elok Fiola",
@@ -513,18 +518,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
                 "kesan": "kakaknya keren banget!!",
-                "pesan": "Semangat menjalani hari-hari dan kuliah nya kak!!", 
-            },
-            {
-                "nama": "Arsyiah Azahra",
-                "nim": "121450035",
-                "umur": "21",
-                "asal": "Bandar Lampung",
-                "alamat": "Tanjung Senang",
-                "hobbi": "Nugas",
-                "sosmed": "@arsyiah._",
-                "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan persiapan TA nya kak!!", 
+                "pesan": "Semangat ngasprak ADS nya kak elok!!", 
             },
             {
                 "nama": "Muhammad Kaisar Firdaus ",
@@ -535,7 +529,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Lagi Nyari",
                 "sosmed": " @dino_kiper",
                 "kesan": "Abangnya kece banget!!",
-                "pesan": "semangat menjalani hari-hari dan persiapan TA nya bang!!", 
+                "pesan": "semangat menjalani hari-hari dan persiapan TA nya bang kaisar!!", 
             },
             {
                 "nama": "Muhammad Arsal Ranjana Putra",
@@ -546,10 +540,10 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngoding",
                 "sosmed": "@arsal.utama",
                 "kesan": "Abnagnya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan persiapan TA nya bang!!", 
+                "pesan": "semangat menjalani hari-hari dan persiapan TA nya bang arsal!!", 
             },
             {
-                "nama": "Cintya  Bella",
+                "nama": "Cintya Bella",
                 "nim": "122450066",
                 "umur": "20",
                 "asal": "Bandar Lampung",
@@ -557,29 +551,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngegym",
                 "sosmed": "@cintyabella28",
                 "kesan": "Kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak!!", 
-            },
-            {
-                "nama": "Eka Fidiya Putri",
-                "nim": " 122450045",
-                "umur": "20",
-                "asal": "Natar, Lampung Selatan",
-                "alamat": "Natar, Lampung Selatan",
-                "hobbi": "Menyibukkan Diri",
-                "sosmed": "@ekafdyaptri",
-                "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak!!", 
-            },
-            {
-                "nama": "Najla Juwairia",
-                "nim": "122450037",
-                "umur": "19",
-                "asal": "Sumatra Utara",
-                "alamat": "Airan",
-                "hobbi": "Menulis, Membaca, fangirling",
-                "sosmed": "@nanana_minjoo",
-                "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak!!", 
+                "pesan": "bahagia selalu ya kak cin:)!!", 
             },
             {
                 "nama": "Patricia Leondra Diajeng Putri ",
@@ -590,7 +562,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton Film",
                 "sosmed": "@patriciadiajeng",
                 "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak@@", 
+                "pesan": "kak cia harus selalu bahagia dan tersenyum ya kak:)", 
             },
             {
                 "nama": "Rahma Neliyana",
@@ -601,7 +573,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Baca Coding",
                 "sosmed": "@rahmanellyana",
                 "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak!!", 
+                "pesan": "semangat terus kak neli:)!!", 
             },
             {
                 "nama": "Try Yani Rizki Nur Rohmah ",
@@ -612,7 +584,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bernyanyi dan Menonton",
                 "sosmed": "@tryyaniciaaa",
                 "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak!!", 
+                "pesan": "semangat menjalani hari-hari dan kuliahnya kak try!!", 
             },
             {
                 "nama": "Gymnastiar Al Khoarizmy",
@@ -623,7 +595,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Baca Komik",
                 "sosmed": "@jimnn.as",
                 "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliah nya kak!!", 
+                "pesan": "semangat terus kuliah nya bang gym!!", 
             },
             {
                 "nama": "Nasywa Nur Afifah ",
@@ -634,7 +606,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton Drakor",
                 "sosmed": "@nsywanaf",
                 "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak!!", 
+                "pesan": "selalu bahagia kak nasywa!!", 
             },
             {
                 "nama": "Abit Ahmad Oktarian",
@@ -645,7 +617,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Ngoding, Gaming",
                 "sosmed": "@abitahmad",
                 "kesan": "Abangnya kece banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya bang!!", 
+                "pesan": "semangat terus bang abit:)!!", 
             },
              {
                 "nama": "Akmal Faiz Abdillah",
@@ -656,7 +628,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Main HP",
                 "sosmed": "@_akmal.faiz",
                 "kesan": "Abangnya kece banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya bang!!", 
+                "pesan": "semangat menjalani hari-hari dan kuliahnya bang akmal!!", 
             },
              {
                 "nama": "Hermawan Manurung ",
@@ -667,7 +639,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Bengong/Membaca Buku",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "Abangnya kece banget",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya bang!!", 
+                "pesan": "bang hermawan semanagt terusss:)!!", 
             },
              {
                 "nama": "Khusnun Nisa",
@@ -678,7 +650,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Mengerjakan Tugas",
                 "sosmed": "@khusnun_nisa335",
                 "kesan": "kakaknya keren banget!!",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak!!", 
+                "pesan": "semangat terus kak khusnun!!", 
             },
              {
                 "nama": "Priska Silvia Ferantiana",
@@ -689,7 +661,18 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Baca Novel yang Bikin Nangis",
                 "sosmed": "@prskslv",
                 "kesan": "kakaknya keren banget",
-                "pesan": "semangat menjalani hari-hari dan kuliahnya kak!!", 
+                "pesan": "semangat menjalani hari-hari dan kuliahnya kak priska!!", 
+            },
+            {
+                "nama": "Dwi Ratna Anggraeni",
+                "nim": "122450008",
+                "umur": "20",
+                "asal": "Jambi",
+                "alamat": "Perumahan Pemda",
+                "hobbi": "Baca",
+                "sosmed": "@dwiratn_",
+                "kesan": "kakaknya keren banget",
+                "pesan": "semangat kuliahnya kak!!", 
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1356,7 +1339,7 @@ elif menu == "Departemen SSD":
                 "pesan": "semangat terus kuliahnya bang danang!!",
             },
             {
-                "nama": "Farel Julio Akbar",
+                "nama": "Farrel Julio Akbar",
                 "nim": "122450110",
                 "umur": "20",
                 "asal": "Bogor",
