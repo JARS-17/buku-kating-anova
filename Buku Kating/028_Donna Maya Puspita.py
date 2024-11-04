@@ -1299,7 +1299,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Labuhan ratu",
                 "hobbi": "Main futsal",
                 "sosmed": "@ari_sigit17",
-                "kesan": "Sangat baik dan ramah juga sholeh",
+                "kesan": "Sangat baik, ramah, dan juga sholeh",
                 "pesan": "Semangat dalam perkuliahannya, Bang!",
             },
             {
