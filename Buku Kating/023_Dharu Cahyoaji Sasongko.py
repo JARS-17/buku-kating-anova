@@ -666,7 +666,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1GEtS0Du3x5BVhh6fSwSsa0o0XlUg3IN4",
             "https://drive.google.com/uc?export=view&id=1GCSbsiHdEcfGd8b3wDBq0HQOti_GTxjm",
             "https://drive.google.com/uc?export=view&id=1GanTtXCKwhlo1PLN18BTRd84_lV4UX3J",
-         
+            
         ]
         data_list = [
             {
