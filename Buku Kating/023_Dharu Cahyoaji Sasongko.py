@@ -729,7 +729,7 @@ elif menu == "Departemen MEDKRAF":
                 "pesan": "maaf sempet salah nyebut nama kak hehe", 
             },
             {
-                "nama": "Try Yani Rizki Nur Rohmah ",
+                "nama": "Tri Yani Rizki Nur Rohmah ",
                 "nim": "122450020",
                 "umur": "20",
                 "asal": "Lampung Barat",
@@ -841,6 +841,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1EU1eKosOx9XR2yT8UtFBv0nvoVRzMR0H",
             "https://drive.google.com/uc?export=view&id=1ABClOGf9ehcxOLj5w41vV0i1vQ6kJ4ns",
             "https://drive.google.com/uc?export=view&id=168N19tWhf7CduhQ4f9iPz0ZjeNy0Fy3-",
+            "https://drive.google.com/uc?export=view&id=1fMam-OVQwYMMUcwPtKyWuGuqmmm9Yuj5",
             "https://drive.google.com/uc?export=view&id=1ZOwOb4BCU456TyWmb0minpk3iuhGLUE_",
 
         ] 
