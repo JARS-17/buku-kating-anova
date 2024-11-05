@@ -647,7 +647,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Nonton",
                 "sosmed": "",
                 "kesan": "penuh semangatt",
-                "pesan": "semoga apa yang diimpikan tercapai bangg",
+                "pesan": "semoga apa yang dimpikan tercapai bangg",
             },
             {
                 "nama": "Elok Fiola",
