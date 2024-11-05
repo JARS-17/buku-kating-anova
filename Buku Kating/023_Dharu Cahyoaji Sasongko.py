@@ -1443,6 +1443,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1AHjLITb2PgNd5W8H-tnjIKqZLndtoIyJ",
             "https://drive.google.com/uc?export=view&id=1AMASVu3dK62KxiVmir0f9qqS2xgMKBR_",
             "https://drive.google.com/uc?export=view&id=1AMYKKb5VRor8DIuGu18jRRg9xzMsxQpc",
+            
 
         ]
         data_list = [
