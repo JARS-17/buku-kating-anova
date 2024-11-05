@@ -1441,7 +1441,6 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1AW-033s43hiSZEUM_vO62XAJs_NV9n4O",
             "https://drive.google.com/uc?export=view&id=1AMlm2tZjlIWX10vh3SmmM5KUUlJ0a8lj",
             "https://drive.google.com/uc?export=view&id=1AHjLITb2PgNd5W8H-tnjIKqZLndtoIyJ",
-            "https://drive.google.com/uc?export=view&id=1AHjLITb2PgNd5W8H-tnjIKqZLndtoIyJ",
             "https://drive.google.com/uc?export=view&id=1AMASVu3dK62KxiVmir0f9qqS2xgMKBR_",
             "https://drive.google.com/uc?export=view&id=1AMYKKb5VRor8DIuGu18jRRg9xzMsxQpc",
         ]
