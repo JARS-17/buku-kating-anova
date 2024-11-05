@@ -354,7 +354,7 @@ elif menu == "Senator":
     senator()
 
 elif menu == "Departemen PSDA":
-    def Psda():
+    def psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1R-4SkCopBfYa0BO9NhRDKTJFGX1wS-Zm",
             "https://drive.google.com/uc?export=view&id=1QYw8VZDHM0QYzMR_Lg05C5S1-c58b19V",
@@ -602,7 +602,7 @@ elif menu == "Departemen PSDA":
        
         ]
         display_images_with_data(gambar_urls, data_list)
-    Psda()
+    psda()
 
 elif menu == "Departemen MEDKRAF":
     def Medkraf():
@@ -1042,8 +1042,8 @@ elif menu == "Departemen MIKFES":
         display_images_with_data(gambar_urls, data_list)
     Mikfes()
 
-elif menu == "Departemen EKSTERNAL ":
-    def Eksternal():
+elif menu == "Departemen EKSTERNAL":
+    def eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ibYoGBP4UElpLLYv7NyWnw-llkXbV1l6",
             "https://drive.google.com/uc?export=view&id=1iVNuB183zMjTxCUMabbHqsXTZLp9sWJZ",
@@ -1242,10 +1242,10 @@ elif menu == "Departemen EKSTERNAL ":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Eksternal()
+    eksternal()
 
-elif menu == "Departemen INTERNAL ":
-    def Internal():
+elif menu == "Departemen INTERNAL":
+    def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1HWqMwjCl1U9Mz_N-gw0gpg7YkT1LHLy2",
             "https://drive.google.com/uc?export=view&id=1IMlO-AnsWELfLoejcCAqLaGRnhQK5OTt",
@@ -1408,10 +1408,10 @@ elif menu == "Departemen INTERNAL ":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Internal()
+    internal()
     
-elif menu == "Departemen SSD ":
-    def Ssd():
+elif menu == "Departemen SSD":
+    def ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1AbujEcqxFV9ptyPWhAphNpckcl0H0W6Z",
             "https://drive.google.com/uc?export=view&id=1AXZkHU5Vzjcdtht0Kch6a6uL5qahDTpq",
@@ -1525,4 +1525,4 @@ elif menu == "Departemen SSD ":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Ssd()
+    ssd()
