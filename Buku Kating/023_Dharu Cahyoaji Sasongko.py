@@ -658,7 +658,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobbi": "Editing",
                 "sosmed": "@elokfiola",
                 "kesan": "cakep bangett kakk",
-                "pesan": "terima kasih sudah membagikan ilmu!", 
+                "pesan": "terima kasih sudah membagikan ilmuu!", 
             },
             
             {
