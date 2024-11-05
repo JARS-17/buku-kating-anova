@@ -16,7 +16,7 @@ def streamlit_menu():
             "Baleg",
             "Senator",
             "Departemen PSDA",
-            "Departemen MEDCRAF",
+            "Departemen MEDKRAF",
             "Departemen MIKFES",
             "Departemen Eksternal",
             "Departemen Internal",
@@ -353,7 +353,7 @@ elif menu == "Senator":
         display_images_with_data(gambar_urls, data_list)
     senator()
 
-elif menu == "DEPARTEMEN PSDA":
+elif menu == "Departemen PSDA":
     def Psda():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1R-4SkCopBfYa0BO9NhRDKTJFGX1wS-Zm",
@@ -604,8 +604,7 @@ elif menu == "DEPARTEMEN PSDA":
         display_images_with_data(gambar_urls, data_list)
     Psda()
 
-elif menu == "Departemen MedKraf":
-
+elif menu == "Departemen MEDKRAF":
     def Medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=183cqgtCRCW2EihXeRx-lbci5sFIovS7y",
@@ -807,7 +806,6 @@ elif menu == "Departemen MedKraf":
     Medkraf()
 
 elif menu == "Departemen MIKFES":
-
     def Mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1lzteNlW03KKqSB9PBfvDBejk_EStCXSc",
@@ -1044,7 +1042,7 @@ elif menu == "Departemen MIKFES":
         display_images_with_data(gambar_urls, data_list)
     Mikfes()
 
-elif menu == "DEPARTEMEN EKSTERNAL ":
+elif menu == "Departemen EKSTERNAL ":
     def Eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ibYoGBP4UElpLLYv7NyWnw-llkXbV1l6",
@@ -1245,7 +1243,8 @@ elif menu == "DEPARTEMEN EKSTERNAL ":
         ]
         display_images_with_data(gambar_urls, data_list)
     Eksternal()
-elif menu == "DEPARTEMEN INTERNAL ":
+
+elif menu == "Departemen INTERNAL ":
     def Internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1HWqMwjCl1U9Mz_N-gw0gpg7YkT1LHLy2",
@@ -1410,7 +1409,8 @@ elif menu == "DEPARTEMEN INTERNAL ":
         ]
         display_images_with_data(gambar_urls, data_list)
     Internal()
-elif menu == "DEPARTEMEN SSD ":
+    
+elif menu == "Departemen SSD ":
     def Ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1AbujEcqxFV9ptyPWhAphNpckcl0H0W6Z",
