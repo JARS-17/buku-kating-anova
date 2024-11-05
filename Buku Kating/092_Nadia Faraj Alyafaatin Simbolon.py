@@ -1042,7 +1042,7 @@ elif menu == "Departemen MIKFES":
         display_images_with_data(gambar_urls, data_list)
     Mikfes()
 
-elif menu == "Departemen EKSTERNAL":
+elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ibYoGBP4UElpLLYv7NyWnw-llkXbV1l6",
@@ -1244,7 +1244,7 @@ elif menu == "Departemen EKSTERNAL":
         display_images_with_data(gambar_urls, data_list)
     eksternal()
 
-elif menu == "Departemen INTERNAL":
+elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1HWqMwjCl1U9Mz_N-gw0gpg7YkT1LHLy2",
